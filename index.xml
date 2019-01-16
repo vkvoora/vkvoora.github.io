@@ -1,26 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Voora lab on Voora lab</title>
+    <title>Q lab on Q lab</title>
     <link>https://vkvoora.github.io/</link>
-    <description>Recent content in Voora lab on Voora lab</description>
+    <description>Recent content in Q lab on Q lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vamsee Voora 2018.</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0530</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Welcome!</title>
-      <link>https://vkvoora.github.io/overview/home_custom/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
-      
-      <guid>https://vkvoora.github.io/overview/home_custom/</guid>
-      <description>&lt;p&gt;In my research group, we try to characterize the behavior of &amp;ldquo;one-electron&amp;rdquo; in a many-electron systems &amp;mdash; ranging from atoms, molecules to materials &amp;mdash; using ab initio theoretical approaches. This has direct implications towards understanding photoelectron spectroscopies and electron transfer process that are fundamental gateways to redox reactions, catalysis and solar-energy capture. Our day-to-day research involves developing first-principles based theoretical formalisms, formulating algorithms and computer codes that are tailored for modern supercomputers, and close collaboration with experimental chemists and physicists to understand and crack current problems in charge-transfer processes.&lt;/p&gt;
-
-&lt;p&gt;If you are interested joining my research group, please refer to the openings page.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Assessment of Density Functional Theory in Predicting Interaction Energies Between Water and Polycyclic Aromatic Hydrocarbons: From Water on Benzene to Water on Graphene</title>
@@ -145,6 +133,15 @@
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0530</pubDate>
       
       <guid>https://vkvoora.github.io/publication/voora-2013-j-phys-chem-b-4365/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Existence of a Correlation Bound s-Type Anion State of C_60</title>
+      <link>https://vkvoora.github.io/publication/voora-2013-j-phys-chem-lett-849/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0530</pubDate>
+      
+      <guid>https://vkvoora.github.io/publication/voora-2013-j-phys-chem-lett-849/</guid>
       <description></description>
     </item>
     
