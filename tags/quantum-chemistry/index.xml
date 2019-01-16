@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantum chemistry on Voora lab</title>
+    <link>https://vkvoora.github.io/tags/quantum-chemistry/</link>
+    <description>Recent content in Quantum chemistry on Voora lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Vamsee Voora 2018.</copyright>
+    
+	<atom:link href="https://vkvoora.github.io/tags/quantum-chemistry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fast computation of ionization potentials</title>
+      <link>https://vkvoora.github.io/project/ips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vkvoora.github.io/project/ips/</guid>
+      <description>An understanding of one-electron properties, such as electron affinities or ionization potentials, in a many-body system is directly relevant to the fields of catalysis, solar energy capture and redox chemical reactions. Theoretical methods that can describe ionization processes with an accuracy of 0.1 eV are necessary to be considered reliable for tailoring molecular properties. In addition, the methods need to be amenable to modern computers for studying large chemical systems with hundreds of atoms.</description>
+    </item>
+    
+    <item>
+      <title>Predictive theories</title>
+      <link>https://vkvoora.github.io/project/predictive-methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vkvoora.github.io/project/predictive-methods/</guid>
+      <description>With looming materials challenges and development of materials with unforseen properties it is imperative to understand the physical and chemical mechanism underlying such materials. This can, inturn, lead to valuable new design principles. However, the current theoretical tools suffer from lack of universal accuracy: methods often tend to describe one property well but fail at the other. Towards this end we will develop theoretical tools that can help describe multiple chemical properties and enable new design principles.</description>
+    </item>
+    
+  </channel>
+</rss>
