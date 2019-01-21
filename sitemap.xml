@@ -44,14 +44,6 @@
     
     <url>
     
-      <loc>https://vkvoora.github.io/teaching/</loc>
-      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://vkvoora.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+05:30</lastmod>
     </url>
@@ -214,7 +206,23 @@
     
     <url>
     
+      <loc>https://vkvoora.github.io/</loc>
+      <lastmod>2017-10-15T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://vkvoora.github.io/project/ips/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vkvoora.github.io/teaching/</loc>
     </url>
     
   
@@ -238,15 +246,6 @@
     
       <loc>https://vkvoora.github.io/publication_types/</loc>
       <lastmod>2018-01-01T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vkvoora.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
     
