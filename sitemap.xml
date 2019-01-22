@@ -206,15 +206,6 @@
     
     <url>
     
-      <loc>https://vkvoora.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://vkvoora.github.io/project/ips/</loc>
     </url>
     
@@ -262,6 +253,15 @@
     <url>
     
       <loc>https://vkvoora.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vkvoora.github.io/</loc>
+      <lastmod>2017-10-15T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
     
