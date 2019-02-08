@@ -94,8 +94,8 @@
   
 
   
-  <link rel="alternate" href="https://vkvoora.github.io/teaching/index.xml" type="application/rss+xml" title="Theory group">
-  <link rel="feed" href="https://vkvoora.github.io/teaching/index.xml" type="application/rss+xml" title="Theory group">
+  <link rel="alternate" href="https://vkvoora.github.io/teaching/index.xml" type="application/rss+xml" title="Quantum Chemistry Group">
+  <link rel="feed" href="https://vkvoora.github.io/teaching/index.xml" type="application/rss+xml" title="Quantum Chemistry Group">
   
 
   <link rel="manifest" href="/site.webmanifest">
@@ -106,9 +106,9 @@
 
   <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="og:site_name" content="Theory group">
+  <meta property="og:site_name" content="Quantum Chemistry Group">
   <meta property="og:url" content="https://vkvoora.github.io/teaching/">
-  <meta property="og:title" content="Methods of Electronic Structure Theory | Theory group">
+  <meta property="og:title" content="Methods of Electronic Structure Theory | Quantum Chemistry Group">
   <meta property="og:description" content="Reader">
   
   
@@ -123,7 +123,7 @@
 
   
 
-  <title>Methods of Electronic Structure Theory | Theory group</title>
+  <title>Methods of Electronic Structure Theory | Quantum Chemistry Group</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -163,7 +163,7 @@
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">Theory group</a>
+      <a class="navbar-brand" href="/">Quantum Chemistry Group</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -354,6 +354,7 @@
 <li><a href="#goals">Goals</a></li>
 <li><a href="#assignments">Assignments</a>
 <ul>
+<li><a href="#assignment-1">Assignment 1</a></li>
 <li><a href="#assignment-0">Assignment 0</a></li>
 </ul></li>
 <li><a href="#central-topics">Central Topics</a></li>
@@ -366,17 +367,38 @@
 
 <h2 id="goals">Goals</h2>
 
-<p>This course aims to  develop a quantitative understanding of chemical binding.  Aspects of covalent and non-covalent bonding will be covered. At the end, the students should be able to understand the approximations that go into various quantum chemistry methods, and be able to assess their in their own routine research.</p>
+<p>This course aims to  develop a quantitative understanding of chemical binding.  Aspects of covalent and non-covalent bonding will be covered. At the end, the students should be able to understand the approximations that go into various quantum chemistry methods, and be able to assess their use in their own routine research.</p>
 
 <h2 id="assignments">Assignments</h2>
 
+<h3 id="assignment-1">Assignment 1</h3>
+
+<p><em>(Due 15/02/2019)</em></p>
+
+<p>1.1 For the ground-state of H$_2^+$, the simple MO wavefunction is
+$\sigma_g1s(1) = \phi_{1sa}(1) + \phi_{1sb} (1)$, where $a$ and $b$ denote the two H atoms, and $\phi_{1sa} = \frac{e^{-r_a}}{\sqrt{\pi}}$ is the hydrogen AO. Using confocal elliptical coordinates, show that the overlap integral is given by $S_{ab} = e^{-R}(1+R+\frac{R^2}{3})$. Here, $R$ is the internuclear separation. The volume element in confocal elliptic coordinates is $dv = \frac{1}{8}R^3(\xi^2 -\eta^2)d\xi d\eta d\phi$. The following integral formula can be handy:
+$$ \int_t^{\infty}z^ne^{-az}dz = \frac{n!}{a^{n+1}}e^{-at}
+\bigg( 1+ at + \frac{a^2t^2}{2!} + &hellip; + \frac{a^nt^n}{n!} \bigg),
+n = 0,1,2,&hellip; &gt; 0$$. (10 pts)</p>
+
+<p>1.2 For the simple MO and VB wavefunctions of H$_2$, i.e. obtained from using just the 1$s$  AOs of individual hydrogen atoms (separated by internuclear distance $R$), (i) derive the corresponding ground-state one-particle densities $\rho_{MO}(\mathbf x)$ and $\rho_{VB}(\mathbf x)$ for the singlet state. $\mathbf x = (\mathbf r, s)$ denotes the space-spin coordinates. (ii) Show that $\rho_{MO}(\mathbf x)$ is greater than $\rho_{VB}(\mathbf x)$ at the mid-point joining the two nuclei. (8 pts)</p>
+
+<p>1.4 Considering the various topics discussed in the class so far, list different ways to improve the simple VB wavefunction for H$_2$. (4 pts)</p>
+
+<p>1.5 (i) List the different antisymmetrized 2-electron Hilbert space functions for H$_2$ obtained using the one-electron MO basis of H$_2^+$, $\sigma_g1s$ and $\sigma_u^*1s$. (ii) For the lowest excited-state of H$_2$, which has the configuration ($\sigma_g1s$)$^1$ ($\sigma_u^*1s$)$^1$, i.e. one-electron in each of the two one-electron MO functions, comment on the nature of the dissociation limit. (8 pts)</p>
+
+<!-- $$\begin{eqnarray} 
+y &=& 1+1   \\\\\\
+&=& 2 
+\end{eqnarray}$$ -->
+
 <h3 id="assignment-0">Assignment 0</h3>
 
-<p><em>Due 28/01/2019</em></p>
+<p><em>(Due 28/01/2019)</em></p>
 
 <p>0.1 Positron, a fundamental anti-particle predicted by Dirac, has a mass that is same as that of electron ($m_e$) but  it has an opposite charge ($+e$). Positrons  are emitted by Flouride-18 and used in commercial imaging for patients. Positronium is an analogue to hydrogen atom where the proton is substituted by a positron. Choose a coordinate system of your choice and a) Write down the non-relativistic Hamiltonian for  positronium, b) Sketch a qualitative distribution of positronic and electronic wavefunctions, and c) Will this system be stable? If so, derive a formula for its energy levels. (10 pts)</p>
 
-<p>0.2 For a hydrogen atom with only 3 hydrogenic basis functions &mdash; 1s, 2s, 2p$_x$ &mdash; write down the 1-electron, 2-electron, and 3-electron Hilbert-space basis functions. Assuming that the hydrogenic basis functions are orthogonal, show that the 2-electron Hilbert-space basis are also orthogonal. (5 pts)</p>
+<p>0.2 For a hydrogen atom with only 3 hydrogenic basis functions &mdash; 1s, 2s, 2p$_x$ &mdash; write down the 1-electron, 2-electron, and 3-electron Hilbert-space basis functions. Assuming that the hydrogenic basis functions are orthogonal, show that the 2-electron Hilbert-space basis functions are also orthogonal. (5 pts)</p>
 
 <p>0.3 If the uknown nuclear-electron wavefunction is expressed as:
 $$\Psi(\mathbf{r},\mathbf{R}) =  \sum_{k=1,2;i=1,2,3,4}  \chi_k^i (\mathbf R) \Psi_k(\mathbf{r};\mathbf{R}) $$
