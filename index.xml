@@ -11,6 +11,31 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title> </title>
+      <link>https://vkvoora.github.io/teaching/assignments/0/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vkvoora.github.io/teaching/assignments/0/</guid>
+      <description>
+
+&lt;h3 id=&#34;assignment-0&#34;&gt;Assignment 0&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;(Due 28/01/2019)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;0.1 Positron, a fundamental anti-particle predicted by Dirac, has a mass that is same as that of electron ($m_e$) but  it has an opposite charge ($+e$). Positrons  are emitted by Flouride-18 and used in commercial imaging for patients. Positronium is an analogue to hydrogen atom where the proton is substituted by a positron. Choose a coordinate system of your choice and a) Write down the non-relativistic Hamiltonian for  positronium, b) Sketch a qualitative distribution of positronic and electronic wavefunctions, and c) Will this system be stable? If so, derive a formula for its energy levels. (10 pts)&lt;/p&gt;
+
+&lt;p&gt;0.2 For a hydrogen atom with only 3 hydrogenic basis functions &amp;mdash; 1s, 2s, 2p$_x$ &amp;mdash; write down the 1-electron, 2-electron, and 3-electron Hilbert-space basis functions. Assuming that the hydrogenic basis functions are orthogonal, show that the 2-electron Hilbert-space basis functions are also orthogonal. (5 pts)&lt;/p&gt;
+
+&lt;p&gt;0.3 If the uknown nuclear-electron wavefunction is expressed as:
+$$\Psi(\mathbf{r},\mathbf{R}) =  \sum_{k=1,2;i=1,2,3,4}  \chi_k^i (\mathbf R) \Psi_k(\mathbf{r};\mathbf{R}) $$
+where $\Psi_k(\mathbf{r};\mathbf{R})$ are eigenfunctions of $\hat{H}^{el}$. For the cases of (i) Exact solution, (ii) Born-Oppenheimer approximation, and (iii) Adiabatic approximation, what is the matrix equation dimensionality that one needs to solve to obtain the nuclear wavefunctions $\chi_k^i(\mathbf R)$.For block diagonal matrices, provide the dimensions of individual blocks. Note that the index $i$ provides additional flexibility to the nuclear wavefunction, you may consider $i$ to represent different vibrational levels for a given electronic level $k$. (5 pts)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Addendum to 0.3:&lt;/strong&gt; You can assume that
+$$\chi_k^i (\mathbf R) = c_k^i \phi^i(\mathbf R),$$ where $\phi^i(\mathbf R)$ are another set of nuclear wavefunctions, but their functional forms are known and they form a orthonormal set (for example Harmonic oscillator basis functions).  This set does not carry the index $k$, and the $k$-dependence is carried over to the unknown expansion coefficients $c_k^i$. Now, what is matrix equation dimension that is required for solving for $c_k^i$ for the three situations discussed above. (The answers will be same as before)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Assessment of Density Functional Theory in Predicting Interaction Energies Between Water and Polycyclic Aromatic Hydrocarbons: From Water on Benzene to Water on Graphene</title>
       <link>https://vkvoora.github.io/publication/ajala-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
@@ -133,15 +158,6 @@
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0530</pubDate>
       
       <guid>https://vkvoora.github.io/publication/voora-2013-j-phys-chem-b-4365/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Existence of a Correlation Bound s-Type Anion State of C_60</title>
-      <link>https://vkvoora.github.io/publication/voora-2013-j-phys-chem-lett-849/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0530</pubDate>
-      
-      <guid>https://vkvoora.github.io/publication/voora-2013-j-phys-chem-lett-849/</guid>
       <description></description>
     </item>
     
