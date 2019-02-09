@@ -11,5 +11,15 @@
 	<atom:link href="https://vkvoora.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title> </title>
+      <link>https://vkvoora.github.io/teaching/assignments/0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vkvoora.github.io/teaching/assignments/0/</guid>
+      <description>Assignment 0 (Due 28/01/2019)
+0.1 Positron, a fundamental anti-particle predicted by Dirac, has a mass that is same as that of electron ($m_e$) but it has an opposite charge ($+e$). Positrons are emitted by Flouride-18 and used in commercial imaging for patients. Positronium is an analogue to hydrogen atom where the proton is substituted by a positron. Choose a coordinate system of your choice and a) Write down the non-relativistic Hamiltonian for positronium, b) Sketch a qualitative distribution of positronic and electronic wavefunctions, and c) Will this system be stable?</description>
+    </item>
+    
   </channel>
 </rss>
