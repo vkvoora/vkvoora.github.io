@@ -12,6 +12,22 @@
     
     <url>
     
+      <loc>https://vkvoora.github.io/project/ips/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vkvoora.github.io/project/predictive-methods/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://vkvoora.github.io/publication/ajala-2018/</loc>
       <lastmod>2018-01-01T00:00:00+05:30</lastmod>
     </url>
@@ -214,13 +230,6 @@
     
     <url>
     
-      <loc>https://vkvoora.github.io/project/ips/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://vkvoora.github.io/teaching/</loc>
       <lastmod>2019-01-24T00:00:00+00:00</lastmod>
     </url>
@@ -229,14 +238,8 @@
     
     <url>
     
-      <loc>https://vkvoora.github.io/project/predictive-methods/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://vkvoora.github.io/project/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -263,6 +266,7 @@
     <url>
     
       <loc>https://vkvoora.github.io/tags/quantum-chemistry/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -271,6 +275,7 @@
     <url>
     
       <loc>https://vkvoora.github.io/tags/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

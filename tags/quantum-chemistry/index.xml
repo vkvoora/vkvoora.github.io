@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Vamsee Voora 2018.</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://vkvoora.github.io/tags/quantum-chemistry/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,19 +15,19 @@
     <item>
       <title>Fast computation of ionization potentials</title>
       <link>https://vkvoora.github.io/project/ips/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://vkvoora.github.io/project/ips/</guid>
       <description>An understanding of one-electron properties, such as electron affinities or ionization potentials, in a many-body system is directly relevant to the fields of catalysis, solar energy capture and redox chemical reactions. Theoretical methods that can describe ionization processes with an accuracy of 0.1 eV are necessary to be considered reliable for tailoring molecular properties. In addition, the methods need to be amenable to modern computers for studying large chemical systems with hundreds of atoms.</description>
     </item>
     
     <item>
-      <title>Predictive theories</title>
+      <title>Predictive theories for extended systems</title>
       <link>https://vkvoora.github.io/project/predictive-methods/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://vkvoora.github.io/project/predictive-methods/</guid>
-      <description>With looming materials challenges and development of materials with unforseen properties it is imperative to understand the physical and chemical mechanism underlying such materials. This can, inturn, lead to valuable new design principles. However, the current theoretical tools suffer from lack of universal accuracy: methods often tend to describe one property well but fail at the other. Towards this end we will develop theoretical tools that can help describe multiple chemical properties and enable new design principles.</description>
+      <description>With looming materials challenges and development of materials with unforeseen properties/uses, it is imperative to understand the physical and chemical mechanism underlying such materials. This can, in-turn, lead to valuable new design principles. However, the current theoretical tools for material characterization suffer from lack of universal accuracy: methods often tend to describe one property well but fail at the other. For example, in materials chemistry, it is important to describe adsorption energies as well as surface energies in the same footing.</description>
     </item>
     
   </channel>
