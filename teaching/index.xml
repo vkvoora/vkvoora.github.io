@@ -22,5 +22,14 @@
 0.1 Positron, a fundamental anti-particle predicted by Dirac, has a mass that is same as that of electron ($m_e$) but it has an opposite charge ($+e$). Positrons are emitted by Flouride-18 and used in commercial imaging for patients. Positronium is an analogue to hydrogen atom where the proton is substituted by a positron. Choose a coordinate system of your choice and a) Write down the non-relativistic Hamiltonian for positronium, b) Sketch a qualitative distribution of positronic and electronic wavefunctions, and c) Will this system be stable?</description>
     </item>
     
+    <item>
+      <title> </title>
+      <link>https://vkvoora.github.io/teaching/assignments/1/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vkvoora.github.io/teaching/assignments/1/</guid>
+      <description>Assignment 1 1.1 For the ground-state of H$_2^+$, the simple MO wavefunction is $\sigma_g1s(1) = \phi_{1sa}(1) + \phi_{1sb} (1)$, where $a$ and $b$ denote the two H atoms, and $\phi_{1sa} = \frac{e^{-r_a}}{\sqrt{\pi}}$ is the hydrogen AO. Using confocal elliptical coordinates, show that the overlap integral is given by $S_{ab} = e^{-R}(1+R+\frac{R^2}{3})$. Here, $R$ is the internuclear separation. The volume element in confocal elliptic coordinates is $dv = \frac{1}{8}R^3(\xi^2 -\eta^2)d\xi d\eta d\phi$.</description>
+    </item>
+    
   </channel>
 </rss>

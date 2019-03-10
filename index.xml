@@ -36,6 +36,30 @@ $$\chi_k^i (\mathbf R) = c_k^i \phi^i(\mathbf R),$$ where $\phi^i(\mathbf R)$ ar
     </item>
     
     <item>
+      <title> </title>
+      <link>https://vkvoora.github.io/teaching/assignments/1/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vkvoora.github.io/teaching/assignments/1/</guid>
+      <description>
+
+&lt;h3 id=&#34;assignment-1&#34;&gt;Assignment 1&lt;/h3&gt;
+
+&lt;p&gt;1.1 For the ground-state of H$_2^+$, the simple MO wavefunction is
+$\sigma_g1s(1) = \phi_{1sa}(1) + \phi_{1sb} (1)$, where $a$ and $b$ denote the two H atoms, and $\phi_{1sa} = \frac{e^{-r_a}}{\sqrt{\pi}}$ is the hydrogen AO. Using confocal elliptical coordinates, show that the overlap integral is given by $S_{ab} = e^{-R}(1+R+\frac{R^2}{3})$. Here, $R$ is the internuclear separation. The volume element in confocal elliptic coordinates is $dv = \frac{1}{8}R^3(\xi^2 -\eta^2)d\xi d\eta d\phi$. The following integral formula can be handy:
+$$ \int_t^{\infty}z^ne^{-az}dz = \frac{n!}{a^{n+1}}e^{-at}
+\bigg( 1+ at + \frac{a^2t^2}{2!} + &amp;hellip; + \frac{a^nt^n}{n!} \bigg),
+n = 0,1,2,&amp;hellip; &amp;gt; 0$$. (10 pts)&lt;/p&gt;
+
+&lt;p&gt;1.2 For the simple MO and VB wavefunctions of H$_2$, i.e. obtained from using just the 1$s$  AOs of individual hydrogen atoms (separated by internuclear distance $R$), (i) derive the corresponding ground-state one-particle densities $\rho_{MO}(\mathbf x)$ and $\rho_{VB}(\mathbf x)$ for the singlet state. $\mathbf x = (\mathbf r, s)$ denotes the space-spin coordinates. (ii) Show that $\rho_{MO}(\mathbf x)$ is greater than $\rho_{VB}(\mathbf x)$ at the mid-point joining the two nuclei. (8 pts)&lt;/p&gt;
+
+&lt;p&gt;1.4 Considering the various topics discussed in the class so far, list different ways to improve the simple VB wavefunction for H$_2$. (4 pts)&lt;/p&gt;
+
+&lt;p&gt;1.5 (i) List the different antisymmetrized 2-electron Hilbert space functions for H$_2$ obtained using the one-electron MO basis of H$_2^+$, $\sigma_g1s$ and $\sigma_u^*1s$. (ii) For the lowest excited-state of H$_2$, which has the configuration ($\sigma_g1s$)$^1$ ($\sigma_u^*1s$)$^1$, i.e. one-electron in each of the two one-electron MO functions, comment on the nature of the dissociation limit. (8 pts)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Fast computation of ionization potentials</title>
       <link>https://vkvoora.github.io/project/ips/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -151,15 +175,6 @@ $$\chi_k^i (\mathbf R) = c_k^i \phi^i(\mathbf R),$$ where $\phi^i(\mathbf R)$ ar
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
       
       <guid>https://vkvoora.github.io/publication/voroa-2015-j-phys-chem-lett-3994/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nonvalence Correlation-Bound Anion State of C6F6: Doorway to Low-Energy Electron Capture</title>
-      <link>https://vkvoora.github.io/publication/voora-2014-j-phys-chem-a-7201/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0530</pubDate>
-      
-      <guid>https://vkvoora.github.io/publication/voora-2014-j-phys-chem-a-7201/</guid>
       <description></description>
     </item>
     
