@@ -31,5 +31,14 @@
       <description>Assignment 1 1.1 For the ground-state of H$_2^+$, the simple MO wavefunction is $\sigma_g1s(1) = \phi_{1sa}(1) + \phi_{1sb} (1)$, where $a$ and $b$ denote the two H atoms, and $\phi_{1sa} = \frac{e^{-r_a}}{\sqrt{\pi}}$ is the hydrogen AO. Using confocal elliptical coordinates, show that the overlap integral is given by $S_{ab} = e^{-R}(1+R+\frac{R^2}{3})$. Here, $R$ is the internuclear separation. The volume element in confocal elliptic coordinates is $dv = \frac{1}{8}R^3(\xi^2 -\eta^2)d\xi d\eta d\phi$.</description>
     </item>
     
+    <item>
+      <title> </title>
+      <link>https://vkvoora.github.io/teaching/assignments/2/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vkvoora.github.io/teaching/assignments/2/</guid>
+      <description>Assignment 2 2.1 Consider a system (for example, a molecule) consisting of two electrons of different spins that equally populate two different orbitals (whose spatial wavefunctions are given by $\psi_1$ and $\psi_2$). a) Construct the two possible Slate determinants and obtain their expectation value of the energy. b) Check that these Slater determinants are not suitable approximate wave functions of such a system [Hint: are they pure spin states?] c) Which wavefunctions would be suitable approximate wavefunctions?</description>
+    </item>
+    
   </channel>
 </rss>

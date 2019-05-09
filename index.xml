@@ -60,6 +60,55 @@ n = 0,1,2,&amp;hellip; &amp;gt; 0$$. (10 pts)&lt;/p&gt;
     </item>
     
     <item>
+      <title> </title>
+      <link>https://vkvoora.github.io/teaching/assignments/2/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vkvoora.github.io/teaching/assignments/2/</guid>
+      <description>
+
+&lt;h3 id=&#34;assignment-2&#34;&gt;Assignment 2&lt;/h3&gt;
+
+&lt;p&gt;2.1 Consider a system (for example, a molecule) consisting of two electrons of different spins that equally populate two different orbitals (whose spatial wavefunctions are given by $\psi_1$ and $\psi_2$).
+a) Construct the two possible Slate determinants and obtain their expectation value of the energy.
+b) Check that these Slater determinants are not suitable approximate wave functions of such a system [Hint: are they pure spin states?]
+c) Which wavefunctions would be suitable approximate wavefunctions? [Hint: try to diagonalize the $S^2$ matrix]
+d) What is the energy expectation value of such functions, and which one of them will be more stable? (10 pts)&lt;/p&gt;
+
+&lt;p&gt;2.2 For the minimal basis H$_2$, i.e. a the many-body basis consisting of the two singlet wavefunctions (
+$\vert \Phi_0 \rangle = \vert 1 \bar{1} \vert$
+, $\vert \Phi_{1 \bar 1}^{2 \bar 2} \rangle = \vert 2 \bar 2\vert$, where $\vert . \vert$ denotes a Slater determinant,
+$\vert 1 \rangle = \vert  \sigma_g1s \alpha \rangle$,
+$\vert \bar 1 \rangle = \vert  \sigma_g1s \beta \rangle$,
+$\vert 2 \rangle = \vert  \sigma_u1s \alpha \rangle$, and
+$\vert \bar 2 \rangle = \vert  \sigma_u1s \beta \rangle$ ),
+show that the full CI Hamiltonian matrix&lt;br /&gt;
+$$\mathbf{H} = \begin{pmatrix}
+\langle 1 \vert h \vert  1 \rangle + \langle \bar 1 \vert h \vert  \bar 1 \rangle
++ \langle 1\bar 1 \vert \vert  1\bar 1 \rangle&lt;br /&gt;
+&amp;amp;
+ \langle 1 \bar 1 \vert \vert 2 \bar 2 \rangle \newline
+\langle 2 \bar 2 \vert \vert 1 \bar 1 \rangle &amp;amp;
+\langle 2 \vert h \vert  2 \rangle + \langle \bar 2 \vert h \vert  \bar 2 \rangle
++ \langle 2\bar 2 \vert \vert  2\bar 2 \rangle  \newline
+\end{pmatrix}$$
+and show that it is Hermitian. Show this result without (and with) using Slater-Condon rules. By integrating out spin, show that
+$$\mathbf{H} = \begin{pmatrix}
+2 h_{11} + J_{11} &amp;amp; J_{12} \newline
+J_{21}  &amp;amp;  2 h_{22} + J_{22} \newline
+\end{pmatrix} \;\text{. (15pts)}$$.&lt;/p&gt;
+
+&lt;p&gt;2.3 Show that the Hartree products
+$$
+\Psi_a(\mathbf r_1, \mathbf r_2) = \psi_1(\mathbf r_1)\alpha(s_1) \psi_2(\mathbf r_2)\beta(s_2) $$
+$$ \Psi_b(\mathbf r_1, \mathbf r_2) = \psi_1(\mathbf r_1)\alpha(s_1) \psi_2(\mathbf r_2)\alpha(s_2) $$
+a) are uncorrelated and b) have the same energy as that of the antisymmetrized form of $\Psi_a$, i.e
+$$ \psi_1(\mathbf r_1)\alpha(s_1) \psi_2(\mathbf r_2)\beta(s_2) -
+\psi_2(\mathbf r_1)\beta(s_1) \psi_1(\mathbf r_2)\alpha(s_2)\;\text{. (5pts)}$$.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Fast computation of ionization potentials</title>
       <link>https://vkvoora.github.io/project/ips/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -166,15 +215,6 @@ n = 0,1,2,&amp;hellip; &amp;gt; 0$$. (10 pts)&lt;/p&gt;
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
       
       <guid>https://vkvoora.github.io/publication/jordan-2015-theor-chem-acc-85/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nonvalence Correlation-Bound Anion States of Polycyclic Aromatic Hydrocarbons</title>
-      <link>https://vkvoora.github.io/publication/voroa-2015-j-phys-chem-lett-3994/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
-      
-      <guid>https://vkvoora.github.io/publication/voroa-2015-j-phys-chem-lett-3994/</guid>
       <description></description>
     </item>
     
