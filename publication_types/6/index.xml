@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>6 on Quantum Chemistry Group</title>
-    <link>https://vkvoora.github.io/publication_types/6/</link>
-    <description>Recent content in 6 on Quantum Chemistry Group</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Vamsee Voora 2018.</copyright>
-    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0530</lastBuildDate>
-    
-	<atom:link href="https://vkvoora.github.io/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>6 | Quantum Chemistry Group</title>
+    <link>/publication_types/6/</link>
+      <atom:link href="/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Vamsee Voora</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>6</title>
+      <link>/publication_types/6/</link>
+    </image>
     
     <item>
       <title>Negative electron affinities from conventional electronic structure methods</title>
-      <link>https://vkvoora.github.io/publication/jordan-2015-theor-chem-acc-85/</link>
+      <link>/publication/jordan-2015-theor-chem-acc-85/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
-      
-      <guid>https://vkvoora.github.io/publication/jordan-2015-theor-chem-acc-85/</guid>
+      <guid>/publication/jordan-2015-theor-chem-acc-85/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew M. Agee | Quantum Chemistry Group</title>
+    <link>/authors/matthew-m.-agee/</link>
+      <atom:link href="/authors/matthew-m.-agee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthew M. Agee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Vamsee Voora</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Matthew M. Agee</title>
+      <link>/authors/matthew-m.-agee/</link>
+    </image>
+    
+    <item>
+      <title>Random-Phase Approximation Methods</title>
+      <link>/publication/chen-2017-annu-rev-phys-chem-421/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <guid>/publication/chen-2017-annu-rev-phys-chem-421/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

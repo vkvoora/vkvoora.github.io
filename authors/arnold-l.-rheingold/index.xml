@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arnold L. Rheingold | Quantum Chemistry Group</title>
+    <link>/authors/arnold-l.-rheingold/</link>
+      <atom:link href="/authors/arnold-l.-rheingold/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arnold L. Rheingold</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Vamsee Voora</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Arnold L. Rheingold</title>
+      <link>/authors/arnold-l.-rheingold/</link>
+    </image>
+    
+    <item>
+      <title>Using Diamagnetic Yttrium and Lanthanum Complexes to Explore Ligand Reduction and C--H Bond Activation in a Tris(aryloxide)mesitylene Ligand System</title>
+      <link>/publication/palumbo-2018-inorg-chem-12876/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <guid>/publication/palumbo-2018-inorg-chem-12876/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

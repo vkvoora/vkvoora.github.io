@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Megan E. Fieser | Quantum Chemistry Group</title>
+    <link>/authors/megan-e.-fieser/</link>
+      <atom:link href="/authors/megan-e.-fieser/index.xml" rel="self" type="application/rss+xml" />
+    <description>Megan E. Fieser</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Vamsee Voora</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Megan E. Fieser</title>
+      <link>/authors/megan-e.-fieser/</link>
+    </image>
+    
+    <item>
+      <title>Metal versus Ligand Reduction in Ln3&#43; Complexes of a Mesitylene-Anchored Tris(Aryloxide) Ligand</title>
+      <link>/publication/palumbo-2018-inorg-chem-2823/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <guid>/publication/palumbo-2018-inorg-chem-2823/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparisons of lanthanide/actinide &#43;2 ions in a tris(aryloxide)arene coordination environment</title>
+      <link>/publication/fieser-2017-chem-sci-7424/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <guid>/publication/fieser-2017-chem-sci-7424/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> others | Quantum Chemistry Group</title>
+    <link>/authors/others/</link>
+      <atom:link href="/authors/others/index.xml" rel="self" type="application/rss+xml" />
+    <description> others</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Vamsee Voora</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title> others</title>
+      <link>/authors/others/</link>
+    </image>
+    
+    <item>
+      <title>Synthesis facilitates an understanding of the structural basis for translation inhibition by the lissoclimides</title>
+      <link>/publication/konst-2017-nat-chem-1140/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <guid>/publication/konst-2017-nat-chem-1140/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

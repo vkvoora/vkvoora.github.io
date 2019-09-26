@@ -1,43 +1,110 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Methods of Electronic Structure Theory on Quantum Chemistry Group</title>
-    <link>https://vkvoora.github.io/teaching/</link>
-    <description>Recent content in Methods of Electronic Structure Theory on Quantum Chemistry Group</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Vamsee Voora 2018.</copyright>
-    <lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://vkvoora.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Methods of Electronic Structure Theory | Quantum Chemistry Group</title>
+    <link>/teaching/</link>
+      <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Methods of Electronic Structure Theory</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Vamsee Voora</copyright><lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Methods of Electronic Structure Theory</title>
+      <link>/teaching/</link>
+    </image>
     
     <item>
       <title> </title>
-      <link>https://vkvoora.github.io/teaching/assignments/0/</link>
+      <link>/teaching/assignments/0/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://vkvoora.github.io/teaching/assignments/0/</guid>
-      <description>Assignment 0 (Due 28/01/2019)
-0.1 Positron, a fundamental anti-particle predicted by Dirac, has a mass that is same as that of electron ($m_e$) but it has an opposite charge ($+e$). Positrons are emitted by Flouride-18 and used in commercial imaging for patients. Positronium is an analogue to hydrogen atom where the proton is substituted by a positron. Choose a coordinate system of your choice and a) Write down the non-relativistic Hamiltonian for positronium, b) Sketch a qualitative distribution of positronic and electronic wavefunctions, and c) Will this system be stable?</description>
+      <guid>/teaching/assignments/0/</guid>
+      <description>
+
+&lt;h3 id=&#34;assignment-0&#34;&gt;Assignment 0&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;(Due 28/01/2019)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;0.1 Positron, a fundamental anti-particle predicted by Dirac, has a mass that is same as that of electron ($m_e$) but  it has an opposite charge ($+e$). Positrons  are emitted by Flouride-18 and used in commercial imaging for patients. Positronium is an analogue to hydrogen atom where the proton is substituted by a positron. Choose a coordinate system of your choice and a) Write down the non-relativistic Hamiltonian for  positronium, b) Sketch a qualitative distribution of positronic and electronic wavefunctions, and c) Will this system be stable? If so, derive a formula for its energy levels. (10 pts)&lt;/p&gt;
+
+&lt;p&gt;0.2 For a hydrogen atom with only 3 hydrogenic basis functions &amp;mdash; 1s, 2s, 2p$_x$ &amp;mdash; write down the 1-electron, 2-electron, and 3-electron Hilbert-space basis functions. Assuming that the hydrogenic basis functions are orthogonal, show that the 2-electron Hilbert-space basis functions are also orthogonal. (5 pts)&lt;/p&gt;
+
+&lt;p&gt;0.3 If the uknown nuclear-electron wavefunction is expressed as:
+$$\Psi(\mathbf{r},\mathbf{R}) =  \sum_{k=1,2;i=1,2,3,4}  \chi_k^i (\mathbf R) \Psi_k(\mathbf{r};\mathbf{R}) $$
+where $\Psi_k(\mathbf{r};\mathbf{R})$ are eigenfunctions of $\hat{H}^{el}$. For the cases of (i) Exact solution, (ii) Born-Oppenheimer approximation, and (iii) Adiabatic approximation, what is the matrix equation dimensionality that one needs to solve to obtain the nuclear wavefunctions $\chi_k^i(\mathbf R)$.For block diagonal matrices, provide the dimensions of individual blocks. Note that the index $i$ provides additional flexibility to the nuclear wavefunction, you may consider $i$ to represent different vibrational levels for a given electronic level $k$. (5 pts)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Addendum to 0.3:&lt;/strong&gt; You can assume that
+$$\chi_k^i (\mathbf R) = c_k^i \phi^i(\mathbf R),$$ where $\phi^i(\mathbf R)$ are another set of nuclear wavefunctions, but their functional forms are known and they form a orthonormal set (for example Harmonic oscillator basis functions).  This set does not carry the index $k$, and the $k$-dependence is carried over to the unknown expansion coefficients $c_k^i$. Now, what is matrix equation dimension that is required for solving for $c_k^i$ for the three situations discussed above. (The answers will be same as before)&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title> </title>
-      <link>https://vkvoora.github.io/teaching/assignments/1/</link>
+      <link>/teaching/assignments/1/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://vkvoora.github.io/teaching/assignments/1/</guid>
-      <description>Assignment 1 1.1 For the ground-state of H$_2^+$, the simple MO wavefunction is $\sigma_g1s(1) = \phi_{1sa}(1) + \phi_{1sb} (1)$, where $a$ and $b$ denote the two H atoms, and $\phi_{1sa} = \frac{e^{-r_a}}{\sqrt{\pi}}$ is the hydrogen AO. Using confocal elliptical coordinates, show that the overlap integral is given by $S_{ab} = e^{-R}(1+R+\frac{R^2}{3})$. Here, $R$ is the internuclear separation. The volume element in confocal elliptic coordinates is $dv = \frac{1}{8}R^3(\xi^2 -\eta^2)d\xi d\eta d\phi$.</description>
+      <guid>/teaching/assignments/1/</guid>
+      <description>
+
+&lt;h3 id=&#34;assignment-1&#34;&gt;Assignment 1&lt;/h3&gt;
+
+&lt;p&gt;1.1 For the ground-state of H$_2^+$, the simple MO wavefunction is
+$\sigma_g1s(1) = \phi_{1sa}(1) + \phi_{1sb} (1)$, where $a$ and $b$ denote the two H atoms, and $\phi_{1sa} = \frac{e^{-r_a}}{\sqrt{\pi}}$ is the hydrogen AO. Using confocal elliptical coordinates, show that the overlap integral is given by $S_{ab} = e^{-R}(1+R+\frac{R^2}{3})$. Here, $R$ is the internuclear separation. The volume element in confocal elliptic coordinates is $dv = \frac{1}{8}R^3(\xi^2 -\eta^2)d\xi d\eta d\phi$. The following integral formula can be handy:
+$$ \int_t^{\infty}z^ne^{-az}dz = \frac{n!}{a^{n+1}}e^{-at}
+\bigg( 1+ at + \frac{a^2t^2}{2!} + &amp;hellip; + \frac{a^nt^n}{n!} \bigg),
+n = 0,1,2,&amp;hellip; &amp;gt; 0$$. (10 pts)&lt;/p&gt;
+
+&lt;p&gt;1.2 For the simple MO and VB wavefunctions of H$_2$, i.e. obtained from using just the 1$s$  AOs of individual hydrogen atoms (separated by internuclear distance $R$), (i) derive the corresponding ground-state one-particle densities $\rho_{MO}(\mathbf x)$ and $\rho_{VB}(\mathbf x)$ for the singlet state. $\mathbf x = (\mathbf r, s)$ denotes the space-spin coordinates. (ii) Show that $\rho_{MO}(\mathbf x)$ is greater than $\rho_{VB}(\mathbf x)$ at the mid-point joining the two nuclei. (8 pts)&lt;/p&gt;
+
+&lt;p&gt;1.4 Considering the various topics discussed in the class so far, list different ways to improve the simple VB wavefunction for H$_2$. (4 pts)&lt;/p&gt;
+
+&lt;p&gt;1.5 (i) List the different antisymmetrized 2-electron Hilbert space functions for H$_2$ obtained using the one-electron MO basis of H$_2^+$, $\sigma_g1s$ and $\sigma_u^*1s$. (ii) For the lowest excited-state of H$_2$, which has the configuration ($\sigma_g1s$)$^1$ ($\sigma_u^*1s$)$^1$, i.e. one-electron in each of the two one-electron MO functions, comment on the nature of the dissociation limit. (8 pts)&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title> </title>
-      <link>https://vkvoora.github.io/teaching/assignments/2/</link>
+      <link>/teaching/assignments/2/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://vkvoora.github.io/teaching/assignments/2/</guid>
-      <description>Assignment 2 2.1 Consider a system (for example, a molecule) consisting of two electrons of different spins that equally populate two different orbitals (whose spatial wavefunctions are given by $\psi_1$ and $\psi_2$). a) Construct the two possible Slate determinants and obtain their expectation value of the energy. b) Check that these Slater determinants are not suitable approximate wave functions of such a system [Hint: are they pure spin states?] c) Which wavefunctions would be suitable approximate wavefunctions?</description>
+      <guid>/teaching/assignments/2/</guid>
+      <description>
+
+&lt;h3 id=&#34;assignment-2&#34;&gt;Assignment 2&lt;/h3&gt;
+
+&lt;p&gt;2.1 Consider a system (for example, a molecule) consisting of two electrons of different spins that equally populate two different orbitals (whose spatial wavefunctions are given by $\psi_1$ and $\psi_2$).
+a) Construct the two possible Slate determinants and obtain their expectation value of the energy.
+b) Check that these Slater determinants are not suitable approximate wave functions of such a system [Hint: are they pure spin states?]
+c) Which wavefunctions would be suitable approximate wavefunctions? [Hint: try to diagonalize the $S^2$ matrix]
+d) What is the energy expectation value of such functions, and which one of them will be more stable? (10 pts)&lt;/p&gt;
+
+&lt;p&gt;2.2 For the minimal basis H$_2$, i.e. a the many-body basis consisting of the two singlet wavefunctions (
+$\vert \Phi_0 \rangle = \vert 1 \bar{1} \vert$
+, $\vert \Phi_{1 \bar 1}^{2 \bar 2} \rangle = \vert 2 \bar 2\vert$, where $\vert . \vert$ denotes a Slater determinant,
+$\vert 1 \rangle = \vert  \sigma_g1s \alpha \rangle$,
+$\vert \bar 1 \rangle = \vert  \sigma_g1s \beta \rangle$,
+$\vert 2 \rangle = \vert  \sigma_u1s \alpha \rangle$, and
+$\vert \bar 2 \rangle = \vert  \sigma_u1s \beta \rangle$ ),
+show that the full CI Hamiltonian matrix&lt;br /&gt;
+$$\mathbf{H} = \begin{pmatrix}
+\langle 1 \vert h \vert  1 \rangle + \langle \bar 1 \vert h \vert  \bar 1 \rangle
++ \langle 1\bar 1 \vert \vert  1\bar 1 \rangle&lt;br /&gt;
+&amp;amp;
+ \langle 1 \bar 1 \vert \vert 2 \bar 2 \rangle \newline
+\langle 2 \bar 2 \vert \vert 1 \bar 1 \rangle &amp;amp;
+\langle 2 \vert h \vert  2 \rangle + \langle \bar 2 \vert h \vert  \bar 2 \rangle
++ \langle 2\bar 2 \vert \vert  2\bar 2 \rangle  \newline
+\end{pmatrix}$$
+and show that it is Hermitian. Show this result without (and with) using Slater-Condon rules. By integrating out spin, show that
+$$\mathbf{H} = \begin{pmatrix}
+2 h_{11} + J_{11} &amp;amp; J_{12} \newline
+J_{21}  &amp;amp;  2 h_{22} + J_{22} \newline
+\end{pmatrix} \;\text{. (15pts)}$$.&lt;/p&gt;
+
+&lt;p&gt;2.3 Show that the Hartree products
+$$
+\Psi_a(\mathbf r_1, \mathbf r_2) = \psi_1(\mathbf r_1)\alpha(s_1) \psi_2(\mathbf r_2)\beta(s_2) $$
+$$ \Psi_b(\mathbf r_1, \mathbf r_2) = \psi_1(\mathbf r_1)\alpha(s_1) \psi_2(\mathbf r_2)\alpha(s_2) $$
+a) are uncorrelated and b) have the same energy as that of the antisymmetrized form of $\Psi_a$, i.e
+$$ \psi_1(\mathbf r_1)\alpha(s_1) \psi_2(\mathbf r_2)\beta(s_2) -
+\psi_2(\mathbf r_1)\beta(s_1) \psi_1(\mathbf r_2)\alpha(s_2)\;\text{. (5pts)}$$.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

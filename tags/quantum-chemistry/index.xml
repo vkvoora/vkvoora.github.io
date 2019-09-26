@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Quantum chemistry on Quantum Chemistry Group</title>
-    <link>https://vkvoora.github.io/tags/quantum-chemistry/</link>
-    <description>Recent content in Quantum chemistry on Quantum Chemistry Group</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Vamsee Voora 2018.</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://vkvoora.github.io/tags/quantum-chemistry/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Quantum chemistry | Quantum Chemistry Group</title>
+    <link>/tags/quantum-chemistry/</link>
+      <atom:link href="/tags/quantum-chemistry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quantum chemistry</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Vamsee Voora</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Quantum chemistry</title>
+      <link>/tags/quantum-chemistry/</link>
+    </image>
     
     <item>
       <title>Fast computation of ionization potentials</title>
-      <link>https://vkvoora.github.io/project/ips/</link>
+      <link>/project/ips/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://vkvoora.github.io/project/ips/</guid>
-      <description>An understanding of one-electron properties, such as electron affinities or ionization potentials, in a many-body system is directly relevant to the fields of catalysis, solar energy capture and redox chemical reactions. Theoretical methods that can describe ionization processes with an accuracy of 0.1 eV are necessary to be considered reliable for tailoring molecular properties. In addition, the methods need to be amenable to modern computers for studying large chemical systems with hundreds of atoms.</description>
+      <guid>/project/ips/</guid>
+      <description>&lt;p&gt;An understanding of one-electron properties, such as electron affinities or ionization potentials, in a many-body system is directly relevant to the fields of catalysis, solar energy capture and redox chemical reactions. Theoretical methods that can describe ionization processes with an accuracy of 0.1 eV are necessary to be considered reliable for tailoring molecular properties. In addition, the methods need to be amenable to modern computers for studying large chemical systems with hundreds of atoms. Similarly, there is a need to account for environmental factors such as neighboring molecule effects, bias effects and vibrational dynamics that affect electron  binding and transport properties. To these ends the group will work on implementing various chemical models based on Green&amp;rsquo;s function methods and generalized Koopmans&amp;rsquo; theorem. The developed methods, for example, will be used in conjunction with liquid-jet photoelectron spectroscopies to understand the impact of solvation on one-electron properties.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Predictive theories for extended systems</title>
-      <link>https://vkvoora.github.io/project/predictive-methods/</link>
+      <link>/project/predictive-methods/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://vkvoora.github.io/project/predictive-methods/</guid>
-      <description>With looming challenges for energy generation and development of materials with unforeseen properties/uses, it is imperative to understand the physical and chemical mechanism underlying such materials. This can, in-turn, lead to valuable new design principles. However, the current theoretical tools for material characterization suffer from lack of universal accuracy: methods often tend to describe one property well but fail at the other. For example, in materials chemistry, it is important to describe adsorption energies as well as surface energies in the same footing.</description>
+      <guid>/project/predictive-methods/</guid>
+      <description>&lt;p&gt;With looming challenges for energy generation and development of materials with unforeseen properties/uses, it is imperative to understand the physical and chemical mechanism underlying such materials. This can, in-turn, lead to valuable new design principles. However, the current theoretical tools for material characterization  suffer from lack of universal accuracy: methods often tend to describe one property well but fail at the other. For example, in materials chemistry, it is important to describe adsorption energies as well as surface energies in the same footing. We will therefore develop theoretical tools that can help describe multiple chemical properties and enable new design principles. The method development will be based on a response-theory type formalism called Adiabatic connection fluctuation dissipation theorem (ACFDT). The simplest approximation within ACFDT, called Random Phase approximation, for example, has been successful in predicting multiple properties of molecules and materials at a reasonable accuracy and computational cost. We will therefore develop methods based on ACFDT to study interlayer interactions in layered materials, adsorption energies of molecules on layered materials, encapsulation energies of small molecules, etc.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alan K. Chan | Quantum Chemistry Group</title>
+    <link>/authors/alan-k.-chan/</link>
+      <atom:link href="/authors/alan-k.-chan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alan K. Chan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Vamsee Voora</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Alan K. Chan</title>
+      <link>/authors/alan-k.-chan/</link>
+    </image>
+    
+    <item>
+      <title>Metal versus Ligand Reduction in Ln3&#43; Complexes of a Mesitylene-Anchored Tris(Aryloxide) Ligand</title>
+      <link>/publication/palumbo-2018-inorg-chem-2823/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <guid>/publication/palumbo-2018-inorg-chem-2823/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

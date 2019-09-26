@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guo P. Chen | Quantum Chemistry Group</title>
+    <link>/authors/guo-p.-chen/</link>
+      <atom:link href="/authors/guo-p.-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guo P. Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Vamsee Voora</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Guo P. Chen</title>
+      <link>/authors/guo-p.-chen/</link>
+    </image>
+    
+    <item>
+      <title>Metal versus Ligand Reduction in Ln3&#43; Complexes of a Mesitylene-Anchored Tris(Aryloxide) Ligand</title>
+      <link>/publication/palumbo-2018-inorg-chem-2823/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <guid>/publication/palumbo-2018-inorg-chem-2823/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Diamagnetic Yttrium and Lanthanum Complexes to Explore Ligand Reduction and C--H Bond Activation in a Tris(aryloxide)mesitylene Ligand System</title>
+      <link>/publication/palumbo-2018-inorg-chem-12876/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <guid>/publication/palumbo-2018-inorg-chem-12876/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random-Phase Approximation Methods</title>
+      <link>/publication/chen-2017-annu-rev-phys-chem-421/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <guid>/publication/chen-2017-annu-rev-phys-chem-421/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

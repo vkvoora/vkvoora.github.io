@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Victor P. Vysotskiy | Quantum Chemistry Group</title>
+    <link>/authors/victor-p.-vysotskiy/</link>
+      <atom:link href="/authors/victor-p.-vysotskiy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Victor P. Vysotskiy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Vamsee Voora</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Victor P. Vysotskiy</title>
+      <link>/authors/victor-p.-vysotskiy/</link>
+    </image>
+    
+    <item>
+      <title>Benchmark Calculations of the Energies for Binding Excess Electrons to Water Clusters</title>
+      <link>/publication/vysotskiy-2012-chem-theory-comput-893/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0530</pubDate>
+      <guid>/publication/vysotskiy-2012-chem-theory-comput-893/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

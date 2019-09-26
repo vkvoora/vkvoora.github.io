@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Sommerfeld | Quantum Chemistry Group</title>
+    <link>/authors/thomas-sommerfeld/</link>
+      <atom:link href="/authors/thomas-sommerfeld/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Sommerfeld</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Vamsee Voora</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Thomas Sommerfeld</title>
+      <link>/authors/thomas-sommerfeld/</link>
+    </image>
+    
+    <item>
+      <title>Theoretical approaches for treating non-valence correlation-bound anions</title>
+      <link>/publication/voora-2017-j-chem-phys-214114/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <guid>/publication/voora-2017-j-chem-phys-214114/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Self-Consistent Polarization Potential Model for Describing Excess Electrons Interacting with Water Clusters</title>
+      <link>/publication/voora-2013-j-phys-chem-b-4365/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0530</pubDate>
+      <guid>/publication/voora-2013-j-phys-chem-b-4365/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmark Calculations of the Energies for Binding Excess Electrons to Water Clusters</title>
+      <link>/publication/vysotskiy-2012-chem-theory-comput-893/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0530</pubDate>
+      <guid>/publication/vysotskiy-2012-chem-theory-comput-893/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

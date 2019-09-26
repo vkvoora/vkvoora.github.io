@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. T. Odbadrakh | Quantum Chemistry Group</title>
+    <link>/authors/t.-t.-odbadrakh/</link>
+      <atom:link href="/authors/t.-t.-odbadrakh/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. T. Odbadrakh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Vamsee Voora</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>T. T. Odbadrakh</title>
+      <link>/authors/t.-t.-odbadrakh/</link>
+    </image>
+    
+    <item>
+      <title>Application of electronic structure methods to coupled Drude oscillators</title>
+      <link>/publication/odbadrakh-2015-chem-phys-lett-76/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
+      <guid>/publication/odbadrakh-2015-chem-phys-lett-76/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

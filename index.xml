@@ -1,220 +1,189 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Quantum Chemistry Group on Quantum Chemistry Group</title>
-    <link>https://vkvoora.github.io/</link>
-    <description>Recent content in Quantum Chemistry Group on Quantum Chemistry Group</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Vamsee Voora 2018.</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0530</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <title>Quantum Chemistry Group</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quantum Chemistry Group</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Vamsee Voora</copyright><lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Quantum Chemistry Group</title>
+      <link>/</link>
+    </image>
     
     <item>
-      <title> </title>
-      <link>https://vkvoora.github.io/teaching/assignments/0/</link>
-      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://vkvoora.github.io/teaching/assignments/0/</guid>
-      <description>
+      <title>Openings</title>
+      <link>/openings/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      <guid>/openings/</guid>
+      <description>&lt;p&gt;TIFR is a leading research institute with a focus on fundamental research, and provides various opportunities for collaborative projects. My group is interested in developing robust first-principles based quantum chemistry methods with a focus on understanding charge-accommodation and charge-transport problems. If you would like to be a part of the quantum chemistry team at TIFR, please consider the following options&lt;/p&gt;
 
-&lt;h3 id=&#34;assignment-0&#34;&gt;Assignment 0&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Postdoctoral researcher:&lt;/strong&gt;
+We currently have an opening for a postdoctoral researcher. The project involves developing and/or applying quantum chemistry methods for understanding electron-structure of liquids. If you are interested, please send me an email containing a one-page write-up describing your research background and interests.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;(Due 28/01/2019)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Graduate student:&lt;/strong&gt;
+TIFR has a robust graduate program and provides a unique environment for budding researchers. The selection to the program is via an annual entrance examination held in the month of December. For more details, please refer to the &lt;a href=&#34;http://www.tifr.res.in/~dcs/index.php?option=com_content&amp;amp;view=article&amp;amp;id=50&amp;amp;Itemid=106&#34; target=&#34;_blank&#34;&gt;graduate program page.&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;0.1 Positron, a fundamental anti-particle predicted by Dirac, has a mass that is same as that of electron ($m_e$) but  it has an opposite charge ($+e$). Positrons  are emitted by Flouride-18 and used in commercial imaging for patients. Positronium is an analogue to hydrogen atom where the proton is substituted by a positron. Choose a coordinate system of your choice and a) Write down the non-relativistic Hamiltonian for  positronium, b) Sketch a qualitative distribution of positronic and electronic wavefunctions, and c) Will this system be stable? If so, derive a formula for its energy levels. (10 pts)&lt;/p&gt;
-
-&lt;p&gt;0.2 For a hydrogen atom with only 3 hydrogenic basis functions &amp;mdash; 1s, 2s, 2p$_x$ &amp;mdash; write down the 1-electron, 2-electron, and 3-electron Hilbert-space basis functions. Assuming that the hydrogenic basis functions are orthogonal, show that the 2-electron Hilbert-space basis functions are also orthogonal. (5 pts)&lt;/p&gt;
-
-&lt;p&gt;0.3 If the uknown nuclear-electron wavefunction is expressed as:
-$$\Psi(\mathbf{r},\mathbf{R}) =  \sum_{k=1,2;i=1,2,3,4}  \chi_k^i (\mathbf R) \Psi_k(\mathbf{r};\mathbf{R}) $$
-where $\Psi_k(\mathbf{r};\mathbf{R})$ are eigenfunctions of $\hat{H}^{el}$. For the cases of (i) Exact solution, (ii) Born-Oppenheimer approximation, and (iii) Adiabatic approximation, what is the matrix equation dimensionality that one needs to solve to obtain the nuclear wavefunctions $\chi_k^i(\mathbf R)$.For block diagonal matrices, provide the dimensions of individual blocks. Note that the index $i$ provides additional flexibility to the nuclear wavefunction, you may consider $i$ to represent different vibrational levels for a given electronic level $k$. (5 pts)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Addendum to 0.3:&lt;/strong&gt; You can assume that
-$$\chi_k^i (\mathbf R) = c_k^i \phi^i(\mathbf R),$$ where $\phi^i(\mathbf R)$ are another set of nuclear wavefunctions, but their functional forms are known and they form a orthonormal set (for example Harmonic oscillator basis functions).  This set does not carry the index $k$, and the $k$-dependence is carried over to the unknown expansion coefficients $c_k^i$. Now, what is matrix equation dimension that is required for solving for $c_k^i$ for the three situations discussed above. (The answers will be same as before)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Junior/Senior research fellow:&lt;/strong&gt;
+We have one opening for a junior/senior research fellow. The student will have an opportunity to learn about and develop electronic and vibrational structure theories of extended systems. If interested please send me an email containing (i) 200 word description of your research interests and (ii) 200 word description of your research background.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title> </title>
-      <link>https://vkvoora.github.io/teaching/assignments/1/</link>
+      <title>Methods of Electronic Structure Theory</title>
+      <link>/teaching/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://vkvoora.github.io/teaching/assignments/1/</guid>
+      <guid>/teaching/</guid>
       <description>
 
-&lt;h3 id=&#34;assignment-1&#34;&gt;Assignment 1&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Graduate course, Spring 2019&lt;/em&gt;
+&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;/p&gt;
 
-&lt;p&gt;1.1 For the ground-state of H$_2^+$, the simple MO wavefunction is
-$\sigma_g1s(1) = \phi_{1sa}(1) + \phi_{1sb} (1)$, where $a$ and $b$ denote the two H atoms, and $\phi_{1sa} = \frac{e^{-r_a}}{\sqrt{\pi}}$ is the hydrogen AO. Using confocal elliptical coordinates, show that the overlap integral is given by $S_{ab} = e^{-R}(1+R+\frac{R^2}{3})$. Here, $R$ is the internuclear separation. The volume element in confocal elliptic coordinates is $dv = \frac{1}{8}R^3(\xi^2 -\eta^2)d\xi d\eta d\phi$. The following integral formula can be handy:
-$$ \int_t^{\infty}z^ne^{-az}dz = \frac{n!}{a^{n+1}}e^{-at}
-\bigg( 1+ at + \frac{a^2t^2}{2!} + &amp;hellip; + \frac{a^nt^n}{n!} \bigg),
-n = 0,1,2,&amp;hellip; &amp;gt; 0$$. (10 pts)&lt;/p&gt;
+&lt;h2 id=&#34;goals&#34;&gt;Goals&lt;/h2&gt;
 
-&lt;p&gt;1.2 For the simple MO and VB wavefunctions of H$_2$, i.e. obtained from using just the 1$s$  AOs of individual hydrogen atoms (separated by internuclear distance $R$), (i) derive the corresponding ground-state one-particle densities $\rho_{MO}(\mathbf x)$ and $\rho_{VB}(\mathbf x)$ for the singlet state. $\mathbf x = (\mathbf r, s)$ denotes the space-spin coordinates. (ii) Show that $\rho_{MO}(\mathbf x)$ is greater than $\rho_{VB}(\mathbf x)$ at the mid-point joining the two nuclei. (8 pts)&lt;/p&gt;
+&lt;p&gt;This course aims to  develop a quantitative understanding of chemical binding.  Aspects of covalent and non-covalent bonding will be covered. At the end, the students should be able to understand the approximations that go into various quantum chemistry methods, and be able to assess their use in their own routine research.&lt;/p&gt;
 
-&lt;p&gt;1.4 Considering the various topics discussed in the class so far, list different ways to improve the simple VB wavefunction for H$_2$. (4 pts)&lt;/p&gt;
+&lt;h2 id=&#34;assignments&#34;&gt;Assignments&lt;/h2&gt;
 
-&lt;p&gt;1.5 (i) List the different antisymmetrized 2-electron Hilbert space functions for H$_2$ obtained using the one-electron MO basis of H$_2^+$, $\sigma_g1s$ and $\sigma_u^*1s$. (ii) For the lowest excited-state of H$_2$, which has the configuration ($\sigma_g1s$)$^1$ ($\sigma_u^*1s$)$^1$, i.e. one-electron in each of the two one-electron MO functions, comment on the nature of the dissociation limit. (8 pts)&lt;/p&gt;
+&lt;h3 id=&#34;assignment-0-hahahugoshortcode-s1-hbhb&#34;&gt;&lt;a href=&#34;/teaching/assignments/0/&#34; target=&#34;_blank&#34;&gt;Assignment 0&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&#34;assignment-1-hahahugoshortcode-s2-hbhb&#34;&gt;&lt;a href=&#34;/teaching/assignments/1/&#34; target=&#34;_blank&#34;&gt;Assignment 1&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&#34;assignment-2-hahahugoshortcode-s3-hbhb&#34;&gt;&lt;a href=&#34;/teaching/assignments/2/&#34; target=&#34;_blank&#34;&gt;Assignment 2&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&#34;assignment-3&#34;&gt;Assignment 3&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;(Due 17/05/2019)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;3.1 From Ostlund and Szabo, solve Excercises 3.31 (5 pts), 3.32 (5 pts), 4.10 (5 pts), 4.11 (5 pts), 4.12 (15 pts).&lt;/p&gt;
+
+&lt;p&gt;3.2 Solve for the second-order wavefunction in Rayleigh&amp;ndash;Schrodinger perturbation theory, and obtain the third-order energy expression. (5 pts)&lt;/p&gt;
+
+&lt;p&gt;3.3 Show that the  ground-state non-interacting kinetic energy and total energy of a N-electron system is given by
+$$\begin{eqnarray}
+T_s[\rho] &amp;amp;=&amp;amp; \sum_{i=1}^N\int d\mathbf r\chi_{i}^{*}(\mathbf x)(\varepsilon_i^{KS} - v_s(\mathbf r))\chi_{i}(\mathbf x) \\&lt;br /&gt;
+E_0[\rho] &amp;amp;=&amp;amp; \sum_{i=1}^{N}\varepsilon_i^{KS} -  \int d\mathbf r  v_{xc}(\mathbf r)\rho(\mathbf r) - E_{H}[\rho] + E_{xc}[\rho].
+\end{eqnarray}$$&lt;/p&gt;
+
+&lt;p&gt;$\chi_i$ and $\varepsilon_i^{KS}$ are canonical KS orbitals and orbital energies. (5 pts)&lt;/p&gt;
+
+&lt;!-- $\vert \sigma\_g1s \bar{\sigma\_g1s}  \rangle$ and $\vert \Phi_2 \rangle = \vert \sigma\_u1s \bar{\sigma\_u1s}  \rangle$), --&gt; 
+
+&lt;!-- $$\begin{eqnarray} 
+y &amp;=&amp; 1+1   \\\\\\
+&amp;=&amp; 2 
+\end{eqnarray}$$ --&gt;
+
+&lt;p&gt;&lt;!-- ## Lecture Summary --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--  ### Chapter 1 --&gt;&lt;/p&gt;
+
+&lt;!-- ## Corrections --&gt;
+
+&lt;!-- &lt;a href=&#34;/files/smallsyl.pdf&#34; target=&#34;_blank&#34;&gt; Syllabus &lt;/a&gt; --&gt;
+
+&lt;!-- This is inline: $\mathbf{y} = \mathbf{X}\boldsymbol\beta + \boldsymbol\varepsilon$ --&gt;
+
+&lt;h2 id=&#34;central-topics&#34;&gt;Central Topics&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Many-body problem and electron correlation&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Concept of potential energy surface&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Theories of chemical bonding&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Mean-field and semi-empirical methods&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Approximate ab initio methods for electron correlation&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Introductory density functional theory&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Molecular properties&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Intermolecular interactions&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;suggested-books&#34;&gt;Suggested books&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Attila Szabo and Neil S. Ostlund, &lt;em&gt;Modern Quantum Chemistry&lt;/em&gt;,
+Dover, 1996.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Frank Jensen, &lt;em&gt;Introduction to Computational Chemistry&lt;/em&gt;, Wiley, 3rd
+ed., 2007.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Roy McWeeny, &lt;em&gt;Methods of molecular quantum mechanics&lt;/em&gt;, Academic
+Press, 2nd ed., 1992.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Trygve Helgaker, Paul Jørgensen, and Jeppe Olsen, &lt;em&gt;Molecular
+electronic-structure theory&lt;/em&gt;, Wiley, 2000.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Anthony J. Stone, &lt;em&gt;Theory of Intermolecular Forces&lt;/em&gt;, Oxford
+University Press, 2nd ed., 2013.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Eberhard Engel, Reiner M. Dreizler, &lt;em&gt;Density Functional Theory: An
+Advanced Course&lt;/em&gt;, Springer Berlin Heidelberg, 2011.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;course-info&#34;&gt;Course Info&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt; Linear algebra and basic quantum chemistry.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Grading Policy:&lt;/strong&gt; Weekly assignments (30%), Midterm (30%), Final
+(40%).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; AG80&lt;br /&gt;
+&lt;strong&gt;Hours:&lt;/strong&gt; Tue 10:00 am &amp;ndash; 11:15 am,&lt;br /&gt;
+Thu 11:15 am &amp;ndash; 12:30 pm&lt;br /&gt;
+&lt;strong&gt;Office Hours:&lt;/strong&gt; WF 2&amp;ndash;3 pm or set-up an appointment via email&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Instructor:&lt;/strong&gt; Vamsee Voora&lt;br /&gt;
+Email: &lt;a href=&#34;mailto:vamsee.voora@tifr.res.in&#34; target=&#34;_blank&#34;&gt;vamsee.voora@tifr.res.in&lt;/a&gt;&lt;br /&gt;
+Office: NMR 104&lt;br /&gt;
+&lt;strong&gt;&lt;em&gt;The first lecture is on Jan 22nd (Tuesday)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title> </title>
-      <link>https://vkvoora.github.io/teaching/assignments/2/</link>
-      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://vkvoora.github.io/teaching/assignments/2/</guid>
-      <description>
-
-&lt;h3 id=&#34;assignment-2&#34;&gt;Assignment 2&lt;/h3&gt;
-
-&lt;p&gt;2.1 Consider a system (for example, a molecule) consisting of two electrons of different spins that equally populate two different orbitals (whose spatial wavefunctions are given by $\psi_1$ and $\psi_2$).
-a) Construct the two possible Slate determinants and obtain their expectation value of the energy.
-b) Check that these Slater determinants are not suitable approximate wave functions of such a system [Hint: are they pure spin states?]
-c) Which wavefunctions would be suitable approximate wavefunctions? [Hint: try to diagonalize the $S^2$ matrix]
-d) What is the energy expectation value of such functions, and which one of them will be more stable? (10 pts)&lt;/p&gt;
-
-&lt;p&gt;2.2 For the minimal basis H$_2$, i.e. a the many-body basis consisting of the two singlet wavefunctions (
-$\vert \Phi_0 \rangle = \vert 1 \bar{1} \vert$
-, $\vert \Phi_{1 \bar 1}^{2 \bar 2} \rangle = \vert 2 \bar 2\vert$, where $\vert . \vert$ denotes a Slater determinant,
-$\vert 1 \rangle = \vert  \sigma_g1s \alpha \rangle$,
-$\vert \bar 1 \rangle = \vert  \sigma_g1s \beta \rangle$,
-$\vert 2 \rangle = \vert  \sigma_u1s \alpha \rangle$, and
-$\vert \bar 2 \rangle = \vert  \sigma_u1s \beta \rangle$ ),
-show that the full CI Hamiltonian matrix&lt;br /&gt;
-$$\mathbf{H} = \begin{pmatrix}
-\langle 1 \vert h \vert  1 \rangle + \langle \bar 1 \vert h \vert  \bar 1 \rangle
-+ \langle 1\bar 1 \vert \vert  1\bar 1 \rangle&lt;br /&gt;
-&amp;amp;
- \langle 1 \bar 1 \vert \vert 2 \bar 2 \rangle \newline
-\langle 2 \bar 2 \vert \vert 1 \bar 1 \rangle &amp;amp;
-\langle 2 \vert h \vert  2 \rangle + \langle \bar 2 \vert h \vert  \bar 2 \rangle
-+ \langle 2\bar 2 \vert \vert  2\bar 2 \rangle  \newline
-\end{pmatrix}$$
-and show that it is Hermitian. Show this result without (and with) using Slater-Condon rules. By integrating out spin, show that
-$$\mathbf{H} = \begin{pmatrix}
-2 h_{11} + J_{11} &amp;amp; J_{12} \newline
-J_{21}  &amp;amp;  2 h_{22} + J_{22} \newline
-\end{pmatrix} \;\text{. (15pts)}$$.&lt;/p&gt;
-
-&lt;p&gt;2.3 Show that the Hartree products
-$$
-\Psi_a(\mathbf r_1, \mathbf r_2) = \psi_1(\mathbf r_1)\alpha(s_1) \psi_2(\mathbf r_2)\beta(s_2) $$
-$$ \Psi_b(\mathbf r_1, \mathbf r_2) = \psi_1(\mathbf r_1)\alpha(s_1) \psi_2(\mathbf r_2)\alpha(s_2) $$
-a) are uncorrelated and b) have the same energy as that of the antisymmetrized form of $\Psi_a$, i.e
-$$ \psi_1(\mathbf r_1)\alpha(s_1) \psi_2(\mathbf r_2)\beta(s_2) -
-\psi_2(\mathbf r_1)\beta(s_1) \psi_1(\mathbf r_2)\alpha(s_2)\;\text{. (5pts)}$$.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Fast computation of ionization potentials</title>
-      <link>https://vkvoora.github.io/project/ips/</link>
+      <title>Projects</title>
+      <link>/project/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://vkvoora.github.io/project/ips/</guid>
-      <description>&lt;p&gt;An understanding of one-electron properties, such as electron affinities or ionization potentials, in a many-body system is directly relevant to the fields of catalysis, solar energy capture and redox chemical reactions. Theoretical methods that can describe ionization processes with an accuracy of 0.1 eV are necessary to be considered reliable for tailoring molecular properties. In addition, the methods need to be amenable to modern computers for studying large chemical systems with hundreds of atoms. Similarly, there is a need to account for environmental factors such as neighboring molecule effects, bias effects and vibrational dynamics that affect electron  binding and transport properties. To these ends the group will work on implementing various chemical models based on Green&amp;rsquo;s function methods and generalized Koopmans&amp;rsquo; theorem. The developed methods, for example, will be used in conjunction with liquid-jet photoelectron spectroscopies to understand the impact of solvation on one-electron properties.&lt;/p&gt;
-</description>
+      <guid>/project/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Predictive theories for extended systems</title>
-      <link>https://vkvoora.github.io/project/predictive-methods/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://vkvoora.github.io/project/predictive-methods/</guid>
-      <description>&lt;p&gt;With looming challenges for energy generation and development of materials with unforeseen properties/uses, it is imperative to understand the physical and chemical mechanism underlying such materials. This can, in-turn, lead to valuable new design principles. However, the current theoretical tools for material characterization  suffer from lack of universal accuracy: methods often tend to describe one property well but fail at the other. For example, in materials chemistry, it is important to describe adsorption energies as well as surface energies in the same footing. We will therefore develop theoretical tools that can help describe multiple chemical properties and enable new design principles. The method development will be based on a response-theory type formalism called Adiabatic connection fluctuation dissipation theorem (ACFDT). The simplest approximation within ACFDT, called Random Phase approximation, for example, has been successful in predicting multiple properties of molecules and materials at a reasonable accuracy and computational cost. We will therefore develop methods based on ACFDT to study interlayer interactions in layered materials, adsorption energies of molecules on layered materials, encapsulation energies of small molecules, etc.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Assessment of Density Functional Theory in Predicting Interaction Energies Between Water and Polycyclic Aromatic Hydrocarbons: From Water on Benzene to Water on Graphene</title>
-      <link>https://vkvoora.github.io/publication/ajala-2018/</link>
+      <title>Publications</title>
+      <link>/publication/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://vkvoora.github.io/publication/ajala-2018/</guid>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Metal versus Ligand Reduction in Ln3&#43; Complexes of a Mesitylene-Anchored Tris(Aryloxide) Ligand</title>
-      <link>https://vkvoora.github.io/publication/palumbo-2018-inorg-chem-2823/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://vkvoora.github.io/publication/palumbo-2018-inorg-chem-2823/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using Diamagnetic Yttrium and Lanthanum Complexes to Explore Ligand Reduction and C--H Bond Activation in a Tris(aryloxide)mesitylene Ligand System</title>
-      <link>https://vkvoora.github.io/publication/palumbo-2018-inorg-chem-12876/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://vkvoora.github.io/publication/palumbo-2018-inorg-chem-12876/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Variational Generalized Kohn--Sham Approach Combining Random Phase Approximation and Green’s Function Methods</title>
-      <link>https://vkvoora.github.io/publication/voora-2018-uci/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://vkvoora.github.io/publication/voora-2018-uci/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comparisons of lanthanide/actinide &#43;2 ions in a tris(aryloxide)arene coordination environment</title>
-      <link>https://vkvoora.github.io/publication/fieser-2017-chem-sci-7424/</link>
+      <title>News</title>
+      <link>/post/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
-      
-      <guid>https://vkvoora.github.io/publication/fieser-2017-chem-sci-7424/</guid>
+      <guid>/post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Random-Phase Approximation Methods</title>
-      <link>https://vkvoora.github.io/publication/chen-2017-annu-rev-phys-chem-421/</link>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
-      
-      <guid>https://vkvoora.github.io/publication/chen-2017-annu-rev-phys-chem-421/</guid>
+      <guid>/talk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Synthesis facilitates an understanding of the structural basis for translation inhibition by the lissoclimides</title>
-      <link>https://vkvoora.github.io/publication/konst-2017-nat-chem-1140/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
-      
-      <guid>https://vkvoora.github.io/publication/konst-2017-nat-chem-1140/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theoretical approaches for treating non-valence correlation-bound anions</title>
-      <link>https://vkvoora.github.io/publication/voora-2017-j-chem-phys-214114/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
-      
-      <guid>https://vkvoora.github.io/publication/voora-2017-j-chem-phys-214114/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Application of electronic structure methods to coupled Drude oscillators</title>
-      <link>https://vkvoora.github.io/publication/odbadrakh-2015-chem-phys-lett-76/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
-      
-      <guid>https://vkvoora.github.io/publication/odbadrakh-2015-chem-phys-lett-76/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Negative electron affinities from conventional electronic structure methods</title>
-      <link>https://vkvoora.github.io/publication/jordan-2015-theor-chem-acc-85/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
-      
-      <guid>https://vkvoora.github.io/publication/jordan-2015-theor-chem-acc-85/</guid>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
       <description></description>
     </item>
     
