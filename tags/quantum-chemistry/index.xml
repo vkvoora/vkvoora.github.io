@@ -5,7 +5,7 @@
     <link>/tags/quantum-chemistry/</link>
       <atom:link href="/tags/quantum-chemistry/index.xml" rel="self" type="application/rss+xml" />
     <description>Quantum chemistry</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Vamsee Voora</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Quantum chemistry</title>
@@ -13,20 +13,22 @@
     </image>
     
     <item>
+      <title>RPA methods for X-ray spectroscopy</title>
+      <link>/project/xps/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/project/xps/</guid>
+      <description>&lt;p&gt;X-ray spectroscopies such as XPS, XES and XAS provide local information of charge accommodation as they probe core-electrons and their transitions. XPS methods are now being used in conjunction with liquids, where the nature of chemical shifts, i.e. change in core-electron binding energies (CEBEs) upon solvation, is poorly understood. Simulating theoretical XPS is challenging due to high lying nature of core excitations, large relaxation effects, and relativistic effects. We have recently shown that the generalized Kohn&amp;ndash;Sham random phase approximation (GKS-RPA) method provides effective one-particle energies which can be used to estimate the CEBEs. In addition, the GKS-RPA Hamiltonian can be partitioned into static, relaxation and correlation effects which provides valuable physical insights into the nature chemical shifts.&lt;/p&gt;
+
+&lt;p&gt;We are now extending GKS-RPA methods with analytic continuation and MPI coding to enable fast computation of IPs. We are also working on incorporating relativistic effects, which are necessary for the study of transition metal complexes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Fast computation of ionization potentials</title>
       <link>/project/ips/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/project/ips/</guid>
       <description>&lt;p&gt;An understanding of one-electron properties, such as electron affinities or ionization potentials, in a many-body system is directly relevant to the fields of catalysis, solar energy capture and redox chemical reactions. Theoretical methods that can describe ionization processes with an accuracy of 0.1 eV are necessary to be considered reliable for tailoring molecular properties. In addition, the methods need to be amenable to modern computers for studying large chemical systems with hundreds of atoms. Similarly, there is a need to account for environmental factors such as neighboring molecule effects, bias effects and vibrational dynamics that affect electron  binding and transport properties. To these ends the group will work on implementing various chemical models based on Green&amp;rsquo;s function methods and generalized Koopmans&amp;rsquo; theorem. The developed methods, for example, will be used in conjunction with liquid-jet photoelectron spectroscopies to understand the impact of solvation on one-electron properties.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Predictive theories for extended systems</title>
-      <link>/project/predictive-methods/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/project/predictive-methods/</guid>
-      <description>&lt;p&gt;With looming challenges for energy generation and development of materials with unforeseen properties/uses, it is imperative to understand the physical and chemical mechanism underlying such materials. This can, in-turn, lead to valuable new design principles. However, the current theoretical tools for material characterization  suffer from lack of universal accuracy: methods often tend to describe one property well but fail at the other. For example, in materials chemistry, it is important to describe adsorption energies as well as surface energies in the same footing. We will therefore develop theoretical tools that can help describe multiple chemical properties and enable new design principles. The method development will be based on a response-theory type formalism called Adiabatic connection fluctuation dissipation theorem (ACFDT). The simplest approximation within ACFDT, called Random Phase approximation, for example, has been successful in predicting multiple properties of molecules and materials at a reasonable accuracy and computational cost. We will therefore develop methods based on ACFDT to study interlayer interactions in layered materials, adsorption energies of molecules on layered materials, encapsulation energies of small molecules, etc.&lt;/p&gt;
 </description>
     </item>
     
