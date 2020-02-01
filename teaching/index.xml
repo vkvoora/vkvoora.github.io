@@ -5,7 +5,7 @@
     <link>/teaching/</link>
       <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Methods of Electronic Structure Theory</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Methods of Electronic Structure Theory</title>
@@ -15,24 +15,33 @@
     <item>
       <title> </title>
       <link>/teaching/assignments/0/</link>
-      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/teaching/assignments/0/</guid>
       <description>
 
-&lt;h3 id=&#34;assignment-0&#34;&gt;Assignment 0&lt;/h3&gt;
+&lt;h3 id=&#34;assignment-1&#34;&gt;Assignment 1&lt;/h3&gt;
 
-&lt;p&gt;&lt;em&gt;(Due 28/01/2019)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(Due 10/02/2019)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;0.1 Positron, a fundamental anti-particle predicted by Dirac, has a mass that is same as that of electron ($m_e$) but  it has an opposite charge ($+e$). Positrons  are emitted by Flouride-18 and used in commercial imaging for patients. Positronium is an analogue to hydrogen atom where the proton is substituted by a positron. Choose a coordinate system of your choice and a) Write down the non-relativistic Hamiltonian for  positronium, b) Sketch a qualitative distribution of positronic and electronic wavefunctions, and c) Will this system be stable? If so, derive a formula for its energy levels. (10 pts)&lt;/p&gt;
+&lt;p&gt;1.1 Positron, a fundamental anti-particle predicted by Dirac, has a mass that is same as that of electron ($m_e$) but  it has an opposite charge ($+e$). Positrons  are emitted by Flouride-18 and used in commercial imaging for patients. Positronium is a hydrogen atom analogue where the proton is substituted by a positron. Choose a coordinate system of your choice and a) Write down the non-relativistic Hamiltonian for  positronium, b) Will this system be stable? If so, derive a formula for its energy levels, c) In the limit of infinite mass of positron, what is the formula for energy levels of the system, d) Why is there a difference in the energies for the ground-states of case b) and c). (10 pts)&lt;/p&gt;
 
-&lt;p&gt;0.2 For a hydrogen atom with only 3 hydrogenic basis functions &amp;mdash; 1s, 2s, 2p$_x$ &amp;mdash; write down the 1-electron, 2-electron, and 3-electron Hilbert-space basis functions. Assuming that the hydrogenic basis functions are orthogonal, show that the 2-electron Hilbert-space basis functions are also orthogonal. (5 pts)&lt;/p&gt;
+&lt;p&gt;1.2 For a hydrogen atom with only 3 hydrogenic basis functions &amp;mdash; 1s, 2s, 2p
+$_x$ &amp;mdash; write down the 1-electron, 2-electron, and 3-electron basis functions which are obtained via direct products. Assuming that the hydrogenic basis functions are orthogonal, show that the 2-electron Hilbert-space basis functions are also orthogonal. Use Dirac notation. (5 pts)&lt;/p&gt;
 
-&lt;p&gt;0.3 If the uknown nuclear-electron wavefunction is expressed as:
-$$\Psi(\mathbf{r},\mathbf{R}) =  \sum_{k=1,2;i=1,2,3,4}  \chi_k^i (\mathbf R) \Psi_k(\mathbf{r};\mathbf{R}) $$
-where $\Psi_k(\mathbf{r};\mathbf{R})$ are eigenfunctions of $\hat{H}^{el}$. For the cases of (i) Exact solution, (ii) Born-Oppenheimer approximation, and (iii) Adiabatic approximation, what is the matrix equation dimensionality that one needs to solve to obtain the nuclear wavefunctions $\chi_k^i(\mathbf R)$.For block diagonal matrices, provide the dimensions of individual blocks. Note that the index $i$ provides additional flexibility to the nuclear wavefunction, you may consider $i$ to represent different vibrational levels for a given electronic level $k$. (5 pts)&lt;/p&gt;
+&lt;p&gt;1.3 If the unknown nuclear-electron wavefunction is expressed as:
+$$\Psi(\mathbf{r},\mathbf{R}) =  \sum_{k=1,2;i=1,2,3,4}  \Psi_k(\mathbf{r};\mathbf{R})\chi_{ki} (\mathbf R)  $$
+where $\Psi_k(\mathbf{r};\mathbf{R})$ is the $k^\text{th}$ eigenfunction of $\hat{H}^{el}$ and $\chi_{ki} (\mathbf R)$ is the $i^\text{th}$ eigenfunction of nuclear Schrodinger equation for electronic surface $k$ within BO approximation. For the cases of (i) Exact solution and (ii) Adiabatic approximation, what is the matrix equation dimensionality that one needs to solve to obtain the nuclear wavefunctions $\chi_k^i(\mathbf R)$. For block diagonal matrices, provide the dimensions of individual blocks. (5 pts)&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Addendum to 0.3:&lt;/strong&gt; You can assume that
-$$\chi_k^i (\mathbf R) = c_k^i \phi^i(\mathbf R),$$ where $\phi^i(\mathbf R)$ are another set of nuclear wavefunctions, but their functional forms are known and they form a orthonormal set (for example Harmonic oscillator basis functions).  This set does not carry the index $k$, and the $k$-dependence is carried over to the unknown expansion coefficients $c_k^i$. Now, what is matrix equation dimension that is required for solving for $c_k^i$ for the three situations discussed above. (The answers will be same as before)&lt;/p&gt;
+&lt;p&gt;1.4 The 1-D quartic oscillator Hamiltonian (in a.u.)
+$$ \hat{H}^{QO} = -\frac{d}{2\mu dx^2} + px^{4}$$
+ provides a reasonable description of the bending modes and out-of-plane deformations of a number of molecules, however its exact eigenfunctions are unknown. An approximate solution is to device trial wavefunctions ($\tilde \Psi$)that are linear combinations of harmonic oscillator functions ($\psi_i$)
+ $$ \vert \tilde \Psi \rangle = \sum_{i=0}^{N}c_i\vert \psi_i \rangle \quad \langle\psi_i\vert\psi_j \rangle = \delta_{ij}$$
+Using linear variational approach, find the approximate energies of the states using the lowest energetic 1, 3 and 5 harmonic oscillator functions. Discuss the variations in the approximate ground and excited energies of the oscillators as the number of functions in the above expansion is increased. To diagonalize the matrices you can make use of any mathematical software or online tools. &lt;em&gt;Hint: only the following QO Hamiltonian matrix elements, expressed in units of $\left(\frac{p}{32\mu^2}\right)^{\frac{1}{3}}$, in the harmonic basis, are non-zero&lt;/em&gt;
+$$H^{QO}_{i,i} = 3i^2 + 5i + \frac{5}{2} $$
+$$H^{QO}_{i,i-2} = 2(i-1)\sqrt{i(i-1)}$$
+$$H^{QO}_{i,i-4} = \frac{1}{2}\sqrt{i(i-1)(i-2)(i-3)} \;\text{. (10pts)}$$&lt;/p&gt;
+
+&lt;p&gt;1.5 In the class, using the BO basis, we had derived an  expression for the first-order non-adiabatic coupling matrix element $T&amp;rsquo;_{aa&amp;rsquo;}$. Within same BO basis, show that $T&amp;rsquo;_{aa}$, the adiabatic matrix element, is vanishing. (5 pts)&lt;/p&gt;
 </description>
     </item>
     
@@ -104,6 +113,32 @@ $$ \Psi_b(\mathbf r_1, \mathbf r_2) = \psi_1(\mathbf r_1)\alpha(s_1) \psi_2(\mat
 a) are uncorrelated and b) have the same energy as that of the antisymmetrized form of $\Psi_a$, i.e
 $$ \psi_1(\mathbf r_1)\alpha(s_1) \psi_2(\mathbf r_2)\beta(s_2) -
 \psi_2(\mathbf r_1)\beta(s_1) \psi_1(\mathbf r_2)\alpha(s_2)\;\text{. (5pts)}$$.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> </title>
+      <link>/teaching/assignments/20.1/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/teaching/assignments/20.1/</guid>
+      <description>
+
+&lt;h3 id=&#34;assignment-20-1-1&#34;&gt;Assignment 20.1.1&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;(Due 28/01/2020)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;20.1.1 Show that the trace of an operator does not depend on the basis in which it is expressed.&lt;/p&gt;
+
+&lt;p&gt;20.1.2 Consider states $\ket{\psi} = 3i\ket{\phi_1} - 7i\ket{\phi_2}$ and $\ket{\chi} = -\ket{\phi_1} + 2i \ket{\phi_2}$ where $\ket{\phi_1}$ and $\ket{\phi_2}$ are orthonormal&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    a. Calculate $\ket{\psi+\chi}$ and $\bra{\psi+\chi}$
+
+    b. Are both of them equal ?
+
+    c. Show that $\ket{\psi}$ and $\ket{\chi} satisfy Schwarz and triangle inequality 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;20.1.3. Shoe that the length of a vector is not changed by a  unitary operator.&lt;/p&gt;
 </description>
     </item>
     
