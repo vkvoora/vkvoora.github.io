@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Quantum Chemistry Group</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Fri, 14 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Quantum Chemistry Group</title>
@@ -31,9 +31,17 @@ We have one opening for a junior/senior research fellow. The student will have a
     </item>
     
     <item>
+      <title>Projects</title>
+      <link>/project/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Methods of Electronic Structure Theory</title>
       <link>/teaching/</link>
-      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/teaching/</guid>
       <description>
 
@@ -57,11 +65,11 @@ We have one opening for a junior/senior research fellow. The student will have a
 
 &lt;p&gt;&lt;em&gt;(Due 10/02/2020)&lt;/em&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;assignment-2-hahahugoshortcode-s2-hbhb&#34;&gt;&lt;a href=&#34;/teaching/assignments/1/&#34; target=&#34;_blank&#34;&gt;Assignment 2&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;assignment-2-hahahugoshortcode-s2-hbhb&#34;&gt;&lt;a href=&#34;&#34; target=&#34;_blank&#34;&gt;Assignment 2&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;&lt;em&gt;(Due 28/02/2020)&lt;/em&gt;&lt;/p&gt;
 
-&lt;!-- ### [Assignment 1](/teaching/assignments/1/)
+&lt;!-- ### [Assignment 1]()
 ### [Assignment 2](/teaching/assignments/2/)
 
 ### Assignment 3
@@ -162,14 +170,6 @@ Office: NMR 201&lt;br /&gt;
 TA: Bibek Samal&lt;br /&gt;
 &lt;strong&gt;&lt;em&gt;First lecture on Jan 20th (Monday)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/project/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/project/</guid>
-      <description></description>
     </item>
     
     <item>
