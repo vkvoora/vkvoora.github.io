@@ -5,44 +5,12 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0530</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
-    
-    <item>
-      <title>Filipp Furche</title>
-      <link>/authors/filipp-furche/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/filipp-furche/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>John C. Hemminger</title>
-      <link>/authors/john-c.-hemminger/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/john-c.-hemminger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Randima Galhenage</title>
-      <link>/authors/randima-galhenage/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/randima-galhenage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vamsee K. Voora</title>
-      <link>/authors/vamsee-k.-voora/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/vamsee-k.-voora/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Adeayo Ajala</title>
@@ -81,6 +49,14 @@
       <link>/authors/dominik-p.-halter/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
       <guid>/authors/dominik-p.-halter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filipp Furche</title>
+      <link>/authors/filipp-furche/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <guid>/authors/filipp-furche/</guid>
       <description></description>
     </item>
     
@@ -153,6 +129,14 @@
       <link>/authors/vamsee-k-voora/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
       <guid>/authors/vamsee-k-voora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vamsee K. Voora</title>
+      <link>/authors/vamsee-k.-voora/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <guid>/authors/vamsee-k.-voora/</guid>
       <description></description>
     </item>
     

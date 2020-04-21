@@ -5,7 +5,7 @@
     <link>/teaching/</link>
       <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Methods of Electronic Structure Theory</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Methods of Electronic Structure Theory</title>
@@ -14,28 +14,54 @@
     
     <item>
       <title> </title>
+      <link>/teaching/assignments/2/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/teaching/assignments/2/</guid>
+      <description>&lt;h3 id=&#34;assignment-3&#34;&gt;Assignment 3&lt;/h3&gt;
+&lt;p&gt;3.1 Show that the Hartree products
+$$
+\Psi_a(\mathbf r_1, \mathbf r_2) = \psi_1(\mathbf r_1)\alpha(s_1) \psi_2(\mathbf r_2)\beta(s_2) $$
+$$ \Psi_b(\mathbf r_1, \mathbf r_2) = \psi_1(\mathbf r_1)\alpha(s_1) \psi_2(\mathbf r_2)\alpha(s_2) $$
+a) are uncorrelated and b) have the same energy as that of the antisymmetrized form of $\Psi_a$, i.e
+$$ \psi_1(\mathbf r_1)\alpha(s_1) \psi_2(\mathbf r_2)\beta(s_2) -
+\psi_2(\mathbf r_1)\beta(s_1) \psi_1(\mathbf r_2)\alpha(s_2). \text{(5pts)}$$&lt;/p&gt;
+&lt;p&gt;3.2 Show that the Fock operator
+$$
+\hat F = \hat h + \hat J + \hat K
+$$
+is invariant to unitary transformation of  occupied orbitals. The Coulomb and Exchange operators depend on &amp;ldquo;$N$&amp;rdquo; occupied orbitals
+$$
+\hat J = \sum_j^{N} \int dx_2 \chi_j (x_2)\frac{1}{r_{12}}\chi_j(x_2)
+$$
+$$
+\hat K = \sum_j^{N} \int dx_2 \chi_j (x_2)\frac{\hat P_{12}}{r_{12}}\chi_j(x_2)\text{. (10 pts)}
+$$&lt;/p&gt;
+&lt;p&gt;3.3 For the ground-state of $H_2^-$, provide  Slater determinant based on bonding and antibonding spatial MOs denoted by $\psi_g \;\text{and}\; \psi_u$.  What is the Hartree-Fock energy in terms of $h,K \;\text{and} \; J$ integrals. In this minimal basis-set, what are the possible excited states and their Hartree-Fock energies? (5 pts).&lt;/p&gt;
+&lt;p&gt;3.4 For $H_2$ in minimal basis-set, calculate the following  (i)$\langle\Psi_0|H|\Psi_0\rangle$ (ii)$\langle\Psi_0|H|\Psi_{1\bar{1}}^{2\bar{2}}\rangle$ (iii)$\langle\Psi_{1\bar{1}}^{2\bar{2}}|H|\Psi_0\rangle$ (iv)$\langle\Psi_{1\bar{1}}^{2\bar{2}}|H|\Psi_{1\bar{1}}^{2\bar{2}}\rangle$ where $|\Psi_0\rangle$ is Hartree-Fock ground state determinant and $\Psi_{1\bar{1}}^{2\bar{2}}$ is doubly excited determinant. (Note: You cannot use the energy expression to directly evaluate all terms, since the &amp;ldquo;bra&amp;rdquo; and &amp;ldquo;ket&amp;rdquo; states are different. Expand the slater determinants and then evaluate for each case. (10 pts)&lt;/p&gt;
+&lt;p&gt;3.5 Using HMO theory set up and solve the Huckel secular determinant equation and calculate the $\pi$ electron energy for (i) allyl  and (ii) cyclopropenyl  molecules. For each case, evaluate HMO energy for the radical, cationic and the anionic states. (5 pts)&lt;/p&gt;
+&lt;p&gt;3.6 The $U(R)$ curve for a repulsive electronic-state of a diatomic molecule can be approximated by the function $ae^{-bR}-c$, where a,b, and c are positive constants with $a &amp;gt; c$. (Note:This function omits the Van der Waals minimum and fails to go to infinity at R = 0.) Sketch $U$, $\langle T_{el} \rangle$, and $\langle V \rangle$ as functions of R for this function.($V = V_{el} + V_{nn}$). (5 pts)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> </title>
       <link>/teaching/assignments/1/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/teaching/assignments/1/</guid>
-      <description>
-
-&lt;h3 id=&#34;assignment-2&#34;&gt;Assignment 2&lt;/h3&gt;
-
+      <description>&lt;h3 id=&#34;assignment-2&#34;&gt;Assignment 2&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;(Due 28/02/2019)&lt;/em&gt;&lt;/p&gt;
-
 &lt;p&gt;1.1 For the ground-state of H$_2^+$, the simple MO wavefunction is
 $\sigma_g1s(1) = \phi_{1sa}(1) + \phi_{1sb} (1)$, where $a$ and $b$ denote the two H atoms, and $\phi_{1sa} = \frac{e^{-r_a}}{\sqrt{\pi}}$ is the hydrogen AO. Using confocal elliptical coordinates (see Levine for definition), show that the overlap integral is given by $S_{ab} = e^{-R}(1+R+\frac{R^2}{3})$. Here, $R$ is the internuclear separation. The volume element in confocal elliptic coordinates is $dv = \frac{1}{8}R^3(\xi^2 -\eta^2)d\xi d\eta d\phi$. The following integral formula can be handy:
 $$ \int_t^{\infty}z^ne^{-az}dz = \frac{n!}{a^{n+1}}e^{-at}
 \bigg( 1+ at + \frac{a^2t^2}{2!} + &amp;hellip; + \frac{a^nt^n}{n!} \bigg),
 n = 0,1,2,&amp;hellip; &amp;gt; 0$$. (8 pts)&lt;/p&gt;
-
 &lt;p&gt;1.2  Consider a system (for example, a molecule) consisting of three electrons with spins $\alpha, \alpha, \beta$ occupying three different MOs $\psi_1, \psi_2$ and $\psi_3$ that are spatially different.
 a) List the possible SDs for this case.
 b) Check that these Slater determinants (SDs)are not suitable approximate wave functions of such a system [Hint: are they pure spin states?]
 c) Which wavefunctions would be suitable approximate wavefunctions? [Hint: try to diagonalize the $S^2$ matrix in this SD basis]. (10 pts)&lt;/p&gt;
-
 &lt;p&gt;1.3 For the lowest excited-state of H$_2$, which has the configuration ($\sigma_g1s$)$^1$ ($\sigma_u^*1s$)$^1$, i.e. one-electron in each of the two one-electron MO functions, comment on the nature of the dissociation limit. (4 pts)&lt;/p&gt;
-
 &lt;p&gt;1.4 For the simple MO and VB wavefunctions of H$_2$, i.e. obtained from using just the 1$s$  AOs of individual hydrogen atoms (separated by internuclear distance $R$), (i) derive the corresponding ground-state one-particle densities $\rho_{MO}(\mathbf x)$ and $\rho_{VB}(\mathbf x)$ for the singlet state. $\mathbf x = (\mathbf r, s)$ denotes the space-spin coordinates. (ii) Show that $\rho_{MO}(\mathbf x)$ is greater than $\rho_{VB}(\mathbf x)$ at the mid-point joining the two nuclei. (8 pts)&lt;/p&gt;
 </description>
     </item>
@@ -45,81 +71,23 @@ c) Which wavefunctions would be suitable approximate wavefunctions? [Hint: try t
       <link>/teaching/assignments/0/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/teaching/assignments/0/</guid>
-      <description>
-
-&lt;h3 id=&#34;assignment-1&#34;&gt;Assignment 1&lt;/h3&gt;
-
+      <description>&lt;h3 id=&#34;assignment-1&#34;&gt;Assignment 1&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;(Due 10/02/2019)&lt;/em&gt;&lt;/p&gt;
-
 &lt;p&gt;1.1 Positron, a fundamental anti-particle predicted by Dirac, has a mass that is same as that of electron ($m_e$) but  it has an opposite charge ($+e$). Positrons  are emitted by Flouride-18 and used in commercial imaging for patients. Positronium is a hydrogen atom analogue where the proton is substituted by a positron. Choose a coordinate system of your choice and a) Write down the non-relativistic Hamiltonian for  positronium, b) Will this system be stable? If so, derive a formula for its energy levels, c) In the limit of infinite mass of positron, what is the formula for energy levels of the system, d) Why is there a difference in the energies for the ground-states of case b) and c). (10 pts)&lt;/p&gt;
-
 &lt;p&gt;1.2 For a hydrogen atom with only 3 hydrogenic basis functions &amp;mdash; 1s, 2s, 2p
 $_x$ &amp;mdash; write down the 1-electron, 2-electron, and 3-electron basis functions which are obtained via direct products. Assuming that the hydrogenic basis functions are orthogonal, show that the 2-electron Hilbert-space basis functions are also orthogonal. Use Dirac notation. (5 pts)&lt;/p&gt;
-
 &lt;p&gt;1.3 If the unknown nuclear-electron wavefunction is expressed as:
 $$\Psi(\mathbf{r},\mathbf{R}) =  \sum_{k=1,2;i=1,2,3,4}  c_{ki}\Psi_k(\mathbf{r};\mathbf{R})\chi_{ki} (\mathbf R)  $$
 where $\Psi_k(\mathbf{r};\mathbf{R})$ is the $k^\text{th}$ eigenfunction of $\hat{H}^{el}$ and $\chi_{ki} (\mathbf R)$ is the $i^\text{th}$ eigenfunction of nuclear Schrodinger equation for electronic surface $k$ within BO approximation. For the cases of (i) Exact solution and (ii) Adiabatic approximation, what is the matrix equation dimensionality that one needs to solve to obtain the $c_{ki}$. For block diagonal matrices, provide the dimensions of individual blocks. (5 pts)&lt;/p&gt;
-
 &lt;p&gt;1.4 The 1-D quartic oscillator Hamiltonian (in a.u.)
 $$ \hat{H}^{QO} = -\frac{d}{2\mu dx^2} + px^{4}$$
- provides a reasonable description of the bending modes and out-of-plane deformations of a number of molecules, however its exact eigenfunctions are unknown. An approximate solution is to device trial wavefunctions ($\tilde \Psi$)that are linear combinations of harmonic oscillator functions ($\psi_i$)
- $$ \vert \tilde \Psi \rangle = \sum_{i=0}^{N}c_i\vert \psi_i \rangle \quad \langle\psi_i\vert\psi_j \rangle = \delta_{ij}$$
-Using linear variational approach, find the approximate energies of the states using the lowest energetic 1, 3 and 5 harmonic oscillator functions. Discuss the variations in the approximate ground and excited energies of the oscillators as the number of functions in the above expansion is increased. To diagonalize the matrices you can make use of any mathematical software or online tools. &lt;em&gt;Hint: only the following QO Hamiltonian matrix elements, expressed in units of $\left(\frac{p}{32\mu^2}\right)^{\frac{1}{3}}$, in the harmonic basis, are non-zero&lt;/em&gt;
+provides a reasonable description of the bending modes and out-of-plane deformations of a number of molecules, however its exact eigenfunctions are unknown. An approximate solution is to device trial wavefunctions ($\tilde \Psi$)that are linear combinations of harmonic oscillator functions ($\psi_i$)
+$$ \vert \tilde \Psi \rangle = \sum_{i=0}^{N}c_i\vert \psi_i \rangle \quad \langle\psi_i\vert\psi_j \rangle = \delta_{ij}$$
+Using linear variational approach, find the approximate energies of the states using the lowest energetic 1, 3 and 5 harmonic oscillator functions. Discuss the variations in the approximate ground and excited energies of the oscillators as the number of functions in the above expansion is increased. To diagonalize the matrices you can make use of any mathematical software or online tools. *Hint: only the following QO Hamiltonian matrix elements, expressed in units of $\left(\frac{p}{32\mu^2}\right)^{\frac{1}{3}}$, in the harmonic basis, are non-zero*
 $$H^{QO}_{i,i} = 3i^2 + 5i + \frac{5}{2} $$
 $$H^{QO}_{i,i-2} = 2(i-1)\sqrt{i(i-1)}$$
-$$H^{QO}_{i,i-4} = \frac{1}{2}\sqrt{i(i-1)(i-2)(i-3)} \;\text{. (10pts)}$$&lt;/p&gt;
-
+$$H^{QO}_{i,i-4} = \frac{1}{2}\sqrt{i(i-1)(i-2)(i-3)} ;\text{. (10pts)}$$&lt;/p&gt;
 &lt;p&gt;1.5 In the class, using the BO basis, we had derived an  expression for the first-order non-adiabatic coupling matrix element $T&amp;rsquo;_{aa&amp;rsquo;}$. Within same BO basis, show that $T&amp;rsquo;_{aa}$, the adiabatic matrix element, is vanishing. (5 pts)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title> </title>
-      <link>/teaching/assignments/2/</link>
-      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/teaching/assignments/2/</guid>
-      <description>
-
-&lt;h3 id=&#34;assignment-2&#34;&gt;Assignment 2&lt;/h3&gt;
-
-&lt;p&gt;1.4 Considering the various topics discussed in the class so far, list different ways to improve the simple VB wavefunction for H$_2$. (4 pts)b&lt;/p&gt;
-
-&lt;p&gt;2.1 Consider a system (for example, a molecule) consisting of two electrons of different spins that equally populate two different orbitals (whose spatial wavefunctions are given by $\psi_1$ and $\psi_2$).
-a) Construct the two possible Slate determinants and obtain their expectation value of the energy.
-b) Check that these Slater determinants are not suitable approximate wave functions of such a system [Hint: are they pure spin states?]
-c) Which wavefunctions would be suitable approximate wavefunctions? [Hint: try to diagonalize the $S^2$ matrix]
-d) What is the energy expectation value of such functions, and which one of them will be more stable? (10 pts)&lt;/p&gt;
-
-&lt;p&gt;2.2 For the minimal basis H$_2$, i.e. a the many-body basis consisting of the two singlet wavefunctions (
-$\vert \Phi_0 \rangle = \vert 1 \bar{1} \vert$
-, $\vert \Phi_{1 \bar 1}^{2 \bar 2} \rangle = \vert 2 \bar 2\vert$, where $\vert . \vert$ denotes a Slater determinant,
-$\vert 1 \rangle = \vert  \sigma_g1s \alpha \rangle$,
-$\vert \bar 1 \rangle = \vert  \sigma_g1s \beta \rangle$,
-$\vert 2 \rangle = \vert  \sigma_u1s \alpha \rangle$, and
-$\vert \bar 2 \rangle = \vert  \sigma_u1s \beta \rangle$ ),
-show that the full CI Hamiltonian matrix&lt;br /&gt;
-$$\mathbf{H} = \begin{pmatrix}
-\langle 1 \vert h \vert  1 \rangle + \langle \bar 1 \vert h \vert  \bar 1 \rangle
-+ \langle 1\bar 1 \vert \vert  1\bar 1 \rangle&lt;br /&gt;
-&amp;amp;
- \langle 1 \bar 1 \vert \vert 2 \bar 2 \rangle \newline
-\langle 2 \bar 2 \vert \vert 1 \bar 1 \rangle &amp;amp;
-\langle 2 \vert h \vert  2 \rangle + \langle \bar 2 \vert h \vert  \bar 2 \rangle
-+ \langle 2\bar 2 \vert \vert  2\bar 2 \rangle  \newline
-\end{pmatrix}$$
-and show that it is Hermitian. Show this result without (and with) using Slater-Condon rules. By integrating out spin, show that
-$$\mathbf{H} = \begin{pmatrix}
-2 h_{11} + J_{11} &amp;amp; J_{12} \newline
-J_{21}  &amp;amp;  2 h_{22} + J_{22} \newline
-\end{pmatrix} \;\text{. (15pts)}$$.&lt;/p&gt;
-
-&lt;p&gt;2.3 Show that the Hartree products
-$$
-\Psi_a(\mathbf r_1, \mathbf r_2) = \psi_1(\mathbf r_1)\alpha(s_1) \psi_2(\mathbf r_2)\beta(s_2) $$
-$$ \Psi_b(\mathbf r_1, \mathbf r_2) = \psi_1(\mathbf r_1)\alpha(s_1) \psi_2(\mathbf r_2)\alpha(s_2) $$
-a) are uncorrelated and b) have the same energy as that of the antisymmetrized form of $\Psi_a$, i.e
-$$ \psi_1(\mathbf r_1)\alpha(s_1) \psi_2(\mathbf r_2)\beta(s_2) -
-\psi_2(\mathbf r_1)\beta(s_1) \psi_1(\mathbf r_2)\alpha(s_2)\;\text{. (5pts)}$$.&lt;/p&gt;
 </description>
     </item>
     
@@ -128,23 +96,16 @@ $$ \psi_1(\mathbf r_1)\alpha(s_1) \psi_2(\mathbf r_2)\beta(s_2) -
       <link>/teaching/assignments/20.1/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/teaching/assignments/20.1/</guid>
-      <description>
-
-&lt;h3 id=&#34;assignment-20-1-1&#34;&gt;Assignment 20.1.1&lt;/h3&gt;
-
+      <description>&lt;h3 id=&#34;assignment-2011&#34;&gt;Assignment 20.1.1&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;(Due 28/01/2020)&lt;/em&gt;&lt;/p&gt;
-
 &lt;p&gt;20.1.1 Show that the trace of an operator does not depend on the basis in which it is expressed.&lt;/p&gt;
-
 &lt;p&gt;20.1.2 Consider states $\ket{\psi} = 3i\ket{\phi_1} - 7i\ket{\phi_2}$ and $\ket{\chi} = -\ket{\phi_1} + 2i \ket{\phi_2}$ where $\ket{\phi_1}$ and $\ket{\phi_2}$ are orthonormal&lt;/p&gt;
-
 &lt;pre&gt;&lt;code&gt;    a. Calculate $\ket{\psi+\chi}$ and $\bra{\psi+\chi}$
-
+    
     b. Are both of them equal ?
-
+    
     c. Show that $\ket{\psi}$ and $\ket{\chi} satisfy Schwarz and triangle inequality 
 &lt;/code&gt;&lt;/pre&gt;
-
 &lt;p&gt;20.1.3. Shoe that the length of a vector is not changed by a  unitary operator.&lt;/p&gt;
 </description>
     </item>

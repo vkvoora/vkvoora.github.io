@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Quantum Chemistry Group</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Quantum Chemistry Group</title>
@@ -18,13 +18,10 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       <guid>/openings/</guid>
       <description>&lt;p&gt;TIFR is a leading research institute with a focus on fundamental research, and provides various opportunities for collaborative projects. My group is interested in developing robust first-principles based quantum chemistry methods with a focus on understanding charge-accommodation and charge-transport problems. If you would like to be a part of the quantum chemistry team at TIFR, please consider the following options&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Postdoctoral researcher:&lt;/strong&gt;
 We currently have an opening for a postdoctoral researcher. The project involves developing and/or applying quantum chemistry methods for understanding electron-structure of liquids. If you are interested, please send me an email containing a one-page write-up describing your research background and interests.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Graduate student:&lt;/strong&gt;
-TIFR has a robust graduate program and provides a unique environment for budding researchers. The selection to the program is via an annual entrance examination held in the month of December. For more details, please refer to the &lt;a href=&#34;http://www.tifr.res.in/~dcs/index.php?option=com_content&amp;amp;view=article&amp;amp;id=50&amp;amp;Itemid=106&#34; target=&#34;_blank&#34;&gt;graduate program page.&lt;/a&gt;&lt;/p&gt;
-
+TIFR has a robust graduate program and provides a unique environment for budding researchers. The selection to the program is via an annual entrance examination held in the month of December. For more details, please refer to the &lt;a href=&#34;http://www.tifr.res.in/~dcs/index.php?option=com_content&amp;amp;view=article&amp;amp;id=50&amp;amp;Itemid=106&#34;&gt;graduate program page.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Junior/Senior research fellow:&lt;/strong&gt;
 We have one opening for a junior/senior research fellow. The student will have an opportunity to learn about and develop electronic and vibrational structure theories of extended systems. If interested please send me an email containing (i) 200 word description of your research interests and (ii) 200 word description of your research background.&lt;/p&gt;
 </description>
@@ -33,134 +30,103 @@ We have one opening for a junior/senior research fellow. The student will have a
     <item>
       <title>Methods of Electronic Structure Theory</title>
       <link>/teaching/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/teaching/</guid>
-      <description>
-
-&lt;p&gt;&lt;em&gt;Graduate course, Spring 2020&lt;/em&gt;
-&lt;h2&gt;Table of Contents&lt;/h2&gt;
-&lt;/p&gt;
-
+      <description>&lt;p&gt;&lt;em&gt;Graduate course, Spring 2020&lt;/em&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id=&#34;goals&#34;&gt;Goals&lt;/h2&gt;
-
 &lt;p&gt;Electronic structure methods are an indispensable set of tools for understanding the nature of chemical binding, for predicting properties of molecules and materials, and for analyzing  the response of molecules to external stimuli like light. Decades of intensive research has also resulted in a large variety of methods that often confounds the users. However, they all fall under two main class of methods: wavefunction based and density function based methods.  A fundamental understanding of these methods can aid in our researchers and practitioners of this field. To this end, this course aims to&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;understand the approximations that go into various quantum chemistry methods&lt;/li&gt;
 &lt;li&gt;develop a quantitative understanding of chemical binding; aspects of covalent and non-covalent bonding will be covered.&lt;/li&gt;
 &lt;li&gt;develop means to analyze the results of electronic structure methods, and be able to assess their use in their own routine research.&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;assignments&#34;&gt;Assignments&lt;/h2&gt;
-
-&lt;h3 id=&#34;assignment-1-hahahugoshortcode-s1-hbhb&#34;&gt;&lt;a href=&#34;/teaching/assignments/0/&#34; target=&#34;_blank&#34;&gt;Assignment 1&lt;/a&gt;&lt;/h3&gt;
-
+&lt;h3 id=&#34;assignment-1hahahugoshortcode-s1-hbhb&#34;&gt;&lt;a href=&#34;/teaching/assignments/0/&#34;&gt;Assignment 1&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;(Due 10/02/2020)&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;assignment-2-hahahugoshortcode-s2-hbhb&#34;&gt;&lt;a href=&#34;/teaching/assignments/1/&#34; target=&#34;_blank&#34;&gt;Assignment 2&lt;/a&gt;&lt;/h3&gt;
-
+&lt;h3 id=&#34;assignment-2hahahugoshortcode-s2-hbhb&#34;&gt;&lt;a href=&#34;/teaching/assignments/1/&#34;&gt;Assignment 2&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;(Due 28/02/2020)&lt;/em&gt;&lt;/p&gt;
-
-&lt;!-- ### [Assignment 1](/teaching/assignments/1/)
-### [Assignment 2](/teaching/assignments/2/)
-
-### Assignment 3
-
-*(Due 17/05/2019)* 
-
-
-3.1 From Ostlund and Szabo, solve Excercises 3.31 (5 pts), 3.32 (5 pts), 4.10 (5 pts), 4.11 (5 pts), 4.12 (15 pts). 
-
-3.2 Solve for the second-order wavefunction in Rayleigh--Schrodinger perturbation theory, and obtain the third-order energy expression. (5 pts)
-
-3.3 Show that the  ground-state non-interacting kinetic energy and total energy of a N-electron system is given by 
-$$\begin{eqnarray} 
-T\_s[\rho] &amp;=&amp; \sum\_{i=1}^N\int d\mathbf r\chi\_{i}^{*}(\mathbf x)(\varepsilon\_i^{KS} - v\_s(\mathbf r))\chi\_{i}(\mathbf x) \\\\\\
-E\_0[\rho] &amp;=&amp; \sum\_{i=1}^{N}\varepsilon\_i^{KS} -  \int d\mathbf r  v\_{xc}(\mathbf r)\rho(\mathbf r) - E\_{H}[\rho] + E\_{xc}[\rho].
-\end{eqnarray}$$
-
-$\chi\_i$ and $\varepsilon\_i^{KS}$ are canonical KS orbitals and orbital energies. (5 pts)
-
-
-
-
-&lt;!-- $\vert \sigma\_g1s \bar{\sigma\_g1s}  \rangle$ and $\vert \Phi_2 \rangle = \vert \sigma\_u1s \bar{\sigma\_u1s}  \rangle$), --&gt; 
-
-&lt;!-- $$\begin{eqnarray} 
-y &amp;=&amp; 1+1   \\\\\\
-&amp;=&amp; 2 
-\end{eqnarray}$$ --&gt; 
-
-&lt;p&gt;&lt;!-- ## Lecture Summary --&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;!--  ### Chapter 1 --&gt;&lt;/p&gt;
-
-&lt;!-- ## Corrections --&gt;
-
-&lt;!-- &lt;a href=&#34;/files/smallsyl.pdf&#34; target=&#34;_blank&#34;&gt; Syllabus &lt;/a&gt; --&gt;
-
-&lt;!-- This is inline: $\mathbf{y} = \mathbf{X}\boldsymbol\beta + \boldsymbol\varepsilon$ --&gt;
-
+&lt;h3 id=&#34;assignment-3hahahugoshortcode-s3-hbhb&#34;&gt;&lt;a href=&#34;/teaching/assignments/2/&#34;&gt;Assignment 3&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;(Due 05/05/2020)&lt;/em&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id=&#34;central-topics&#34;&gt;Central Topics&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Many-body problem and electron correlation&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Concept of potential energy surface&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Theories of chemical bonding&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Mean-field and semi-empirical methods&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Approximate ab initio methods for electron correlation&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Introductory density functional theory&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Molecular properties&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Intermolecular interactions&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Many-body problem and electron correlation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Concept of potential energy surface&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Theories of chemical bonding&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mean-field and semi-empirical methods&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Approximate ab initio methods for electron correlation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Introductory density functional theory&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Molecular properties&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Intermolecular interactions&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;suggested-books&#34;&gt;Suggested books&lt;/h2&gt;
-
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Attila Szabo and Neil S. Ostlund, &lt;em&gt;Modern Quantum Chemistry&lt;/em&gt;,
-Dover, 1996.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Ira N. Levine, &lt;em&gt;Quantum Chemistry&lt;/em&gt;, Pearson, 7th ed.,2016.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Frank Jensen, &lt;em&gt;Introduction to Computational Chemistry&lt;/em&gt;, Wiley, 3rd
-ed., 2007.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Roy McWeeny, &lt;em&gt;Methods of molecular quantum mechanics&lt;/em&gt;, Academic
-Press, 2nd ed., 1992.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Trygve Helgaker, Paul Jørgensen, and Jeppe Olsen, &lt;em&gt;Molecular
-electronic-structure theory&lt;/em&gt;, Wiley, 2000.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Anthony J. Stone, &lt;em&gt;Theory of Intermolecular Forces&lt;/em&gt;, Oxford
-University Press, 2nd ed., 2013.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Eberhard Engel, Reiner M. Dreizler, &lt;em&gt;Density Functional Theory: An
-Advanced Course&lt;/em&gt;, Springer Berlin Heidelberg, 2011.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Attila Szabo and Neil S. Ostlund, &lt;em&gt;Modern Quantum Chemistry&lt;/em&gt;,
+Dover, 1996.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ira N. Levine, &lt;em&gt;Quantum Chemistry&lt;/em&gt;, Pearson, 7th ed.,2016.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Frank Jensen, &lt;em&gt;Introduction to Computational Chemistry&lt;/em&gt;, Wiley, 3rd
+ed., 2007.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Roy McWeeny, &lt;em&gt;Methods of molecular quantum mechanics&lt;/em&gt;, Academic
+Press, 2nd ed., 1992.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Trygve Helgaker, Paul Jørgensen, and Jeppe Olsen, &lt;em&gt;Molecular
+electronic-structure theory&lt;/em&gt;, Wiley, 2000.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Anthony J. Stone, &lt;em&gt;Theory of Intermolecular Forces&lt;/em&gt;, Oxford
+University Press, 2nd ed., 2013.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Eberhard Engel, Reiner M. Dreizler, &lt;em&gt;Density Functional Theory: An
+Advanced Course&lt;/em&gt;, Springer Berlin Heidelberg, 2011.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;h2 id=&#34;course-info&#34;&gt;Course Info&lt;/h2&gt;
-
 &lt;p&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt; Linear algebra and basic quantum chemistry.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Grading Policy:&lt;/strong&gt; Weekly assignments (30%), Midterm (35%), Final
 (35%).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; AG80&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; AG80&lt;br&gt;
 &lt;strong&gt;Hours:&lt;/strong&gt; Mon, Thu 11:30 am &amp;ndash; 1:00 pm
-&lt;strong&gt;Office Hours:&lt;/strong&gt; TF 2&amp;ndash;3 pm or set-up an appointment via email&lt;br /&gt;
-&lt;br /&gt;
-&lt;strong&gt;Instructor:&lt;/strong&gt; Vamsee Voora&lt;br /&gt;
-Email: &lt;a href=&#34;mailto:vamsee.voora@tifr.res.in&#34; target=&#34;_blank&#34;&gt;vamsee.voora@tifr.res.in&lt;/a&gt;&lt;br /&gt;
-Office: NMR 201&lt;br /&gt;
-TA: Bibek Samal&lt;br /&gt;
-&lt;strong&gt;&lt;em&gt;First lecture on Jan 20th (Monday)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;Office Hours:&lt;/strong&gt; TF 2&amp;ndash;3 pm or set-up an appointment via email&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Instructor:&lt;/strong&gt; Vamsee Voora&lt;br&gt;
+Email: &lt;a href=&#34;mailto:vamsee.voora@tifr.res.in&#34;&gt;vamsee.voora@tifr.res.in&lt;/a&gt;&lt;br&gt;
+Office: NMR 201&lt;br&gt;
+TA: Bibek Samal&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;First lecture on Jan 20th (Monday)&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -175,7 +141,7 @@ TA: Bibek Samal&lt;br /&gt;
     <item>
       <title>Publications</title>
       <link>/publication/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
       <guid>/publication/</guid>
       <description></description>
     </item>
@@ -193,14 +159,6 @@ TA: Bibek Samal&lt;br /&gt;
       <link>/talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
       <guid>/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid></guid>
       <description></description>
     </item>
     

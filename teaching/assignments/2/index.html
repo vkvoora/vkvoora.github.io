@@ -82,7 +82,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.301ab7eca2ca7d1311ed71a9afa2cc4f.css">
+  <link rel="stylesheet" href="/css/academic.min.e3f5b18d016dbe045ff798ce14ab3788.css">
 
   
 
@@ -129,9 +129,9 @@
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2019-01-28T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2020-04-21T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2019-01-28T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2020-04-21T00:00:00&#43;00:00">
   
 
   
@@ -468,8 +468,8 @@
 
 
 
-<meta content="2019-01-28 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2019-01-28 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2020-04-21 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2020-04-21 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -482,7 +482,7 @@
     
       
     
-    <time>January, 2019</time>
+    <time>April, 2020</time>
   </span>
   
 
@@ -527,48 +527,31 @@
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      
-
-<h3 id="assignment-2">Assignment 2</h3>
-
-<p>1.4 Considering the various topics discussed in the class so far, list different ways to improve the simple VB wavefunction for H$_2$. (4 pts)b</p>
-
-<p>2.1 Consider a system (for example, a molecule) consisting of two electrons of different spins that equally populate two different orbitals (whose spatial wavefunctions are given by $\psi_1$ and $\psi_2$).
-a) Construct the two possible Slate determinants and obtain their expectation value of the energy.
-b) Check that these Slater determinants are not suitable approximate wave functions of such a system [Hint: are they pure spin states?]
-c) Which wavefunctions would be suitable approximate wavefunctions? [Hint: try to diagonalize the $S^2$ matrix]
-d) What is the energy expectation value of such functions, and which one of them will be more stable? (10 pts)</p>
-
-<p>2.2 For the minimal basis H$_2$, i.e. a the many-body basis consisting of the two singlet wavefunctions (
-$\vert \Phi_0 \rangle = \vert 1 \bar{1} \vert$
-, $\vert \Phi_{1 \bar 1}^{2 \bar 2} \rangle = \vert 2 \bar 2\vert$, where $\vert . \vert$ denotes a Slater determinant,
-$\vert 1 \rangle = \vert  \sigma_g1s \alpha \rangle$,
-$\vert \bar 1 \rangle = \vert  \sigma_g1s \beta \rangle$,
-$\vert 2 \rangle = \vert  \sigma_u1s \alpha \rangle$, and
-$\vert \bar 2 \rangle = \vert  \sigma_u1s \beta \rangle$ ),
-show that the full CI Hamiltonian matrix<br />
-$$\mathbf{H} = \begin{pmatrix}
-\langle 1 \vert h \vert  1 \rangle + \langle \bar 1 \vert h \vert  \bar 1 \rangle
-+ \langle 1\bar 1 \vert \vert  1\bar 1 \rangle<br />
-&amp;
- \langle 1 \bar 1 \vert \vert 2 \bar 2 \rangle \newline
-\langle 2 \bar 2 \vert \vert 1 \bar 1 \rangle &amp;
-\langle 2 \vert h \vert  2 \rangle + \langle \bar 2 \vert h \vert  \bar 2 \rangle
-+ \langle 2\bar 2 \vert \vert  2\bar 2 \rangle  \newline
-\end{pmatrix}$$
-and show that it is Hermitian. Show this result without (and with) using Slater-Condon rules. By integrating out spin, show that
-$$\mathbf{H} = \begin{pmatrix}
-2 h_{11} + J_{11} &amp; J_{12} \newline
-J_{21}  &amp;  2 h_{22} + J_{22} \newline
-\end{pmatrix} \;\text{. (15pts)}$$.</p>
-
-<p>2.3 Show that the Hartree products
+      <h3 id="assignment-3">Assignment 3</h3>
+<p>3.1 Show that the Hartree products
 $$
 \Psi_a(\mathbf r_1, \mathbf r_2) = \psi_1(\mathbf r_1)\alpha(s_1) \psi_2(\mathbf r_2)\beta(s_2) $$
 $$ \Psi_b(\mathbf r_1, \mathbf r_2) = \psi_1(\mathbf r_1)\alpha(s_1) \psi_2(\mathbf r_2)\alpha(s_2) $$
 a) are uncorrelated and b) have the same energy as that of the antisymmetrized form of $\Psi_a$, i.e
 $$ \psi_1(\mathbf r_1)\alpha(s_1) \psi_2(\mathbf r_2)\beta(s_2) -
-\psi_2(\mathbf r_1)\beta(s_1) \psi_1(\mathbf r_2)\alpha(s_2)\;\text{. (5pts)}$$.</p>
+\psi_2(\mathbf r_1)\beta(s_1) \psi_1(\mathbf r_2)\alpha(s_2). \text{(5pts)}$$</p>
+<p>3.2 Show that the Fock operator
+$$
+\hat F = \hat h + \hat J + \hat K
+$$
+is invariant to unitary transformation of  occupied orbitals. The Coulomb and Exchange operators depend on &ldquo;$N$&rdquo; occupied orbitals
+$$
+\hat J = \sum_j^{N} \int dx_2 \chi_j (x_2)\frac{1}{r_{12}}\chi_j(x_2)
+$$
+$$
+\hat K = \sum_j^{N} \int dx_2 \chi_j (x_2)\frac{\hat P_{12}}{r_{12}}\chi_j(x_2)\text{. (10 pts)}
+$$</p>
+<p>3.3 For the ground-state of $H_2^-$, provide  Slater determinant based on bonding and antibonding spatial MOs denoted by $\psi_g \;\text{and}\; \psi_u$.  What is the Hartree-Fock energy in terms of $h,K \;\text{and} \; J$ integrals. In this minimal basis-set, what are the possible excited states and their Hartree-Fock energies? (5 pts).</p>
+<p>3.4 For $H_2$ in minimal basis-set, calculate the following  (i)$\langle\Psi_0|H|\Psi_0\rangle$ (ii)$\langle\Psi_0|H|\Psi_{1\bar{1}}^{2\bar{2}}\rangle$ (iii)$\langle\Psi_{1\bar{1}}^{2\bar{2}}|H|\Psi_0\rangle$ (iv)$\langle\Psi_{1\bar{1}}^{2\bar{2}}|H|\Psi_{1\bar{1}}^{2\bar{2}}\rangle$ where $|\Psi_0\rangle$ is Hartree-Fock ground state determinant and $\Psi_{1\bar{1}}^{2\bar{2}}$ is doubly excited determinant. (Note: You cannot use the energy expression to directly evaluate all terms, since the &ldquo;bra&rdquo; and &ldquo;ket&rdquo; states are different. Expand the slater determinants and then evaluate for each case. (10 pts)</p>
+<p>3.5 Using HMO theory set up and solve the Huckel secular determinant equation and calculate the $\pi$ electron energy for (i) allyl  and (ii) cyclopropenyl  molecules. For each case, evaluate HMO energy for the radical, cationic and the anionic states. (5 pts)</p>
+<p>3.6 The $U(R)$ curve for a repulsive electronic-state of a diatomic molecule can be approximated by the function $ae^{-bR}-c$, where a,b, and c are positive constants with $a &gt; c$. (Note:This function omits the Van der Waals minimum and fails to go to infinity at R = 0.) Sketch $U$, $\langle T_{el} \rangle$, and $\langle V \rangle$ as functions of R for this function.($V = V_{el} + V_{nn}$). (5 pts)</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 
     </div>
 
@@ -797,7 +780,7 @@ $$ \psi_1(\mathbf r_1)\alpha(s_1) \psi_2(\mathbf r_2)\beta(s_2) -
   
 
   <p class="powered-by">
-    &copy; 2020 Vamsee Voora &middot; 
+    © 2020 Vamsee Voora &middot; 
 
 
     
