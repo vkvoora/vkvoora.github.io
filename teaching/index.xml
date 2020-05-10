@@ -5,12 +5,29 @@
     <link>/teaching/</link>
       <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Methods of Electronic Structure Theory</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Methods of Electronic Structure Theory</title>
       <link>/teaching/</link>
     </image>
+    
+    <item>
+      <title> </title>
+      <link>/teaching/assignments/3/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <guid>/teaching/assignments/3/</guid>
+      <description>&lt;h3 id=&#34;assignment-4&#34;&gt;Assignment 4&lt;/h3&gt;
+&lt;p&gt;3.1 Starting from the Hartree-Fock-Roothan equations, what are the approximations necessary to reduce to the CNDO, INDO and MNDO methods. Arrange the methods in increasing order of computational effort. (7 pts)&lt;/p&gt;
+&lt;p&gt;3.2 For the Fe(CO)$_5$ molecule, enumerate the total number of CGTOs that constitute the 6-31G and STO-3G basis sets. Try to answer this without  and with the help of the basis-set website (&lt;a href=&#34;https://www.basissetexchange.org/)&#34;&gt;https://www.basissetexchange.org/)&lt;/a&gt;. How many spatial MOs will be occupied and how many will be empty? (4 pts)&lt;/p&gt;
+&lt;p&gt;3.3 For the hydrogen atom, plot the radial wavefunction for (i) the exact 1$s$ AO, and (ii) approximate AOs using CGTOs (a)STO-3G and (b) STO-6G. Check if these AOs are normalized. (4 pts)&lt;/p&gt;
+&lt;p&gt;3.4 In the HF-SCF procedure, at the stationary point, $\chi_i $ and $\varepsilon_i$ and eigenfunctions and eigenvalues of the the one-electron Fock operator,
+$$  \hat F (r_1) \chi_i (r_1) = \varepsilon_i \chi_i (r_1) \text{.}$$
+Show that the Slater Determinant, $| \Phi_0 \rangle = | \chi_1 \chi_2 &amp;hellip; \chi_N| $ is an eigenfunction of the following many-electron operator:
+$$  \hat H_0 = \sum_{i=1}^{N} \hat F (r_i) \text{.}$$
+Determine the corresponding eigenvalue for $\hat H_0$ acting on $| \Phi_0 \rangle $. (5 pts)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title> </title>
