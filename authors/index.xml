@@ -5,12 +5,308 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Alireza Marefat Khah</title>
+      <link>/authors/alireza-marefat-khah/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/alireza-marefat-khah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arnim Hellweg</title>
+      <link>/authors/arnim-hellweg/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/arnim-hellweg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artur Wodyński</title>
+      <link>/authors/artur-wodynski/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/artur-wodynski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin Helmich-Paris</title>
+      <link>/authors/benjamin-helmich-paris/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/benjamin-helmich-paris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian D. Nguyen</title>
+      <link>/authors/brian-d.-nguyen/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/brian-d.-nguyen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christof Holzer</title>
+      <link>/authors/christof-holzer/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/christof-holzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christof Hättig</title>
+      <link>/authors/christof-hattig/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/christof-hattig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christoph van Wüllen</title>
+      <link>/authors/christoph-van-wullen/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/christoph-van-wullen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David P. Tew</title>
+      <link>/authors/david-p.-tew/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/david-p.-tew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dmitrij Rappoport</title>
+      <link>/authors/dmitrij-rappoport/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/dmitrij-rappoport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enrico Tapavicza</title>
+      <link>/authors/enrico-tapavicza/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/enrico-tapavicza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eva Perlt</title>
+      <link>/authors/eva-perlt/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/eva-perlt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabian Mack</title>
+      <link>/authors/fabian-mack/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/fabian-mack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filipp Furche</title>
+      <link>/authors/filipp-furche/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/filipp-furche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florian Weigend</title>
+      <link>/authors/florian-weigend/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/florian-weigend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gunnar Schmitz</title>
+      <link>/authors/gunnar-schmitz/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/gunnar-schmitz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guo P. Chen</title>
+      <link>/authors/guo-p.-chen/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/guo-p.-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason M. Yu</title>
+      <link>/authors/jason-m.-yu/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jason-m.-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Reiter</title>
+      <link>/authors/kevin-reiter/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/kevin-reiter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marek Sierka</title>
+      <link>/authors/marek-sierka/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/marek-sierka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marius S. Frank</title>
+      <link>/authors/marius-s.-frank/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/marius-s.-frank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin Kaupp</title>
+      <link>/authors/martin-kaupp/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/martin-kaupp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthias Rückert</title>
+      <link>/authors/matthias-ruckert/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/matthias-ruckert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Diedenhofen</title>
+      <link>/authors/michael-diedenhofen/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-diedenhofen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael E. Harding</title>
+      <link>/authors/michael-e.-harding/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-e.-harding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robin Grotjahn</title>
+      <link>/authors/robin-grotjahn/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/robin-grotjahn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Karbalaei Khani</title>
+      <link>/authors/sarah-karbalaei-khani/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/sarah-karbalaei-khani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saswata Roy</title>
+      <link>/authors/saswata-roy/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/saswata-roy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shane M. Parker</title>
+      <link>/authors/shane-m.-parker/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/shane-m.-parker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonia Coriani</title>
+      <link>/authors/sonia-coriani/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/sonia-coriani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sree Ganesh Balasubramani</title>
+      <link>/authors/sree-ganesh-balasubramani/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/sree-ganesh-balasubramani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Müller</title>
+      <link>/authors/thomas-muller/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/thomas-muller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uwe Huniar</title>
+      <link>/authors/uwe-huniar/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/uwe-huniar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vamsee K. Voora</title>
+      <link>/authors/vamsee-k.-voora/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/vamsee-k.-voora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yannick J. Franzke</title>
+      <link>/authors/yannick-j.-franzke/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/yannick-j.-franzke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John C. Hemminger</title>
+      <link>/authors/john-c.-hemminger/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/john-c.-hemminger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Randima Galhenage</title>
+      <link>/authors/randima-galhenage/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/randima-galhenage/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adeayo Ajala</title>
@@ -53,26 +349,10 @@
     </item>
     
     <item>
-      <title>Filipp Furche</title>
-      <link>/authors/filipp-furche/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      <guid>/authors/filipp-furche/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Francesco Paesani</title>
       <link>/authors/francesco-paesani/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
       <guid>/authors/francesco-paesani/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Guo P. Chen</title>
-      <link>/authors/guo-p.-chen/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      <guid>/authors/guo-p.-chen/</guid>
       <description></description>
     </item>
     
@@ -117,26 +397,10 @@
     </item>
     
     <item>
-      <title>Sree Ganesh Balasubramani</title>
-      <link>/authors/sree-ganesh-balasubramani/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      <guid>/authors/sree-ganesh-balasubramani/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Vamsee K Voora</title>
       <link>/authors/vamsee-k-voora/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
       <guid>/authors/vamsee-k-voora/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vamsee K. Voora</title>
-      <link>/authors/vamsee-k.-voora/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      <guid>/authors/vamsee-k.-voora/</guid>
       <description></description>
     </item>
     

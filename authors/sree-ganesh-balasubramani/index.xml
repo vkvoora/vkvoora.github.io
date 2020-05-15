@@ -5,12 +5,20 @@
     <link>/authors/sree-ganesh-balasubramani/</link>
       <atom:link href="/authors/sree-ganesh-balasubramani/index.xml" rel="self" type="application/rss+xml" />
     <description>Sree Ganesh Balasubramani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Sree Ganesh Balasubramani</title>
       <link>/authors/sree-ganesh-balasubramani/</link>
     </image>
+    
+    <item>
+      <title>TURBOMOLE: Modular program suite for ab initio quantum-chemical and condensed-matter simulations</title>
+      <link>/publication/turbmole-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/turbmole-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Variational Generalized Kohn--Sham Approach Combining Random Phase Approximation and Green’s Function Methods</title>

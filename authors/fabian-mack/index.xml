@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabian Mack | Quantum Chemistry Group</title>
+    <link>/authors/fabian-mack/</link>
+      <atom:link href="/authors/fabian-mack/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fabian Mack</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Fabian Mack</title>
+      <link>/authors/fabian-mack/</link>
+    </image>
+    
+    <item>
+      <title>TURBOMOLE: Modular program suite for ab initio quantum-chemical and condensed-matter simulations</title>
+      <link>/publication/turbmole-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/turbmole-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
