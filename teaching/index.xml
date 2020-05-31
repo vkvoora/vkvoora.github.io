@@ -31,6 +31,39 @@ Determine the corresponding eigenvalue for $\hat H_0$ acting on $| \Phi_0 \rangl
     
     <item>
       <title> </title>
+      <link>/teaching/assignments/4/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <guid>/teaching/assignments/4/</guid>
+      <description>&lt;h3 id=&#34;assignment-5&#34;&gt;Assignment 5&lt;/h3&gt;
+&lt;p&gt;5.1 (Taken from Levine) For H$_2$O molecule, the five lowest-energy spatial MOs in terms of AOs are
+$$
+\psi_1 = 1.0 \phi_{O1s}  + 0.015\phi_{O2s}  + 0.003\phi_{O2p_z} - 0.004(\phi_{H1_{1s}} + \phi_{H2_{1s}}) \\&lt;br&gt;
+\psi_2 = -0.027 \phi_{O1s}  + 0.820\phi_{O2s}  + 0.132\phi_{O2p_z} + 0.152(\phi_{H1_{1s}} + \phi_{H2_{1s}}) \\&lt;br&gt;
+\psi_3 = 0.624\phi_{O2p_y} + 0.424(\phi_{H1_{1s}} - \phi_{H2_{1s}}) \\&lt;br&gt;
+\psi_4 = -0.026\phi_{O1s}  -0.502\phi_{O2s}  + 0.787\phi_{O2p_z} + 0.264 (\phi_{H1_{1s}} + \phi_{H2_{1s}})  \\&lt;br&gt;
+\psi_5 = \phi_{O2p_x}.
+$$
+For this configuration, calculate the individual AO electronic population, Gross electronic population on each atom, and the net charges. The AOs on O atom are mutually orthogonal, while the other relevant overlap integrals are
+$$
+\langle \phi_{H1_{1s}}|  \phi_{O_{1s}}\rangle = \langle \phi_{H2_{1s}} |  \phi_{O_{1s}} \rangle = 0.054 \text{,} \;
+\langle \phi_{H1_{1s}}|  \phi_{O_{2s}}\rangle = \langle \phi_{H2_{1s}} |  \phi_{O_{2s}} \rangle = 0.471  \\&lt;br&gt;
+\langle \phi_{H1_{1s}}|  \phi_{O_{2p_y}}\rangle = -\langle \phi_{H2_{1s}} |  \phi_{O_{2p_y}} \rangle = 0.319 \text{,} \;
+\langle \phi_{H1_{1s}}|  \phi_{O_{2p_z}}\rangle = \langle \phi_{H2_{1s}} |  \phi_{O_{2p_z}} \rangle = 0.247  \\&lt;br&gt;
+\langle \phi_{H1_{1s}}|  \phi_{H2_{1s}}\rangle=0.238. \text{(5 pts)}
+$$&lt;/p&gt;
+&lt;p&gt;5.2 For He in 6-31G basis-set, assume that the two s-type functions are orthogonal to each other. The AOs hence are also like the MOs,  i.e. $\psi_1 = \phi_{1s}$ and $\psi_2 = \phi_{2s}$ . For these two MOs, use  Slater-Condon rules and the $\Phi_0$ and $\Phi_{1\bar1}^{2\bar2}$ configurations to verify that the CI matrix is
+$$
+\begin{pmatrix}
+2h_{11} + J_{11} &amp;amp; K_{12} \\&lt;br&gt;
+K_{12} &amp;amp; 2h_{22} + J_{22} \\
+\end{pmatrix}.\text{(5 pts)}
+$$&lt;/p&gt;
+&lt;p&gt;5.3 For H$_2$ in a minimal basis-set, but with infinite nuclear separation and using only $\Phi_0$ and $\Phi_{1\bar1}^{2\bar2}$ configurations, derive the CI wavefunctions corresponding to the ground and excited-states, i.e. solve for $c_0$ and $c_{1\bar1}^{2\bar2}$ for $\Psi = c_0\Phi_0 + \Phi_{1\bar1}^{2\bar2}$. Comment on the ionic/covalent nature of the two CI wavefunction by expanding the MOs of the two Slater determinants in AOs. (5pts)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> </title>
       <link>/teaching/assignments/2/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/teaching/assignments/2/</guid>
