@@ -5,12 +5,20 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Vamsee K. Voora</title>
+      <link>/authors/vamsee-k.-voora/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/vamsee-k.-voora/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Alireza Marefat Khah</title>
@@ -277,14 +285,6 @@
     </item>
     
     <item>
-      <title>Vamsee K. Voora</title>
-      <link>/authors/vamsee-k.-voora/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/vamsee-k.-voora/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Yannick J. Franzke</title>
       <link>/authors/yannick-j.-franzke/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -393,14 +393,6 @@
       <link>/authors/narbe-mardirossian/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
       <guid>/authors/narbe-mardirossian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vamsee K Voora</title>
-      <link>/authors/vamsee-k-voora/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      <guid>/authors/vamsee-k-voora/</guid>
       <description></description>
     </item>
     
@@ -529,6 +521,14 @@
       <link>/authors/thomas-sommerfeld/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
       <guid>/authors/thomas-sommerfeld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vamsee K Voora</title>
+      <link>/authors/vamsee-k-voora/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <guid>/authors/vamsee-k-voora/</guid>
       <description></description>
     </item>
     

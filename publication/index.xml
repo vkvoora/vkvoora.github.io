@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Molecular Electron Affinities Using the Generalized Kohn–Sham Semicanonical Projected Random Phase Approximation</title>
+      <link>/publication/voora-2020-jpcl/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/voora-2020-jpcl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TURBOMOLE: Modular program suite for ab initio quantum-chemical and condensed-matter simulations</title>
@@ -25,6 +33,14 @@
       <link>/publication/voora-2019-j-chem-phys-134106/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/publication/voora-2019-j-chem-phys-134106/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational generalized Kohn-Sham approach combining the random-phase-approximation and Green&#39;s-function methods</title>
+      <link>/publication/phys-rev-a-99-012518/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/phys-rev-a-99-012518/</guid>
       <description></description>
     </item>
     
@@ -49,14 +65,6 @@
       <link>/publication/palumbo-2018-inorg-chem-12876/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
       <guid>/publication/palumbo-2018-inorg-chem-12876/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Variational Generalized Kohn--Sham Approach Combining Random Phase Approximation and Green’s Function Methods</title>
-      <link>/publication/voora-2018-uci/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-      <guid>/publication/voora-2018-uci/</guid>
       <description></description>
     </item>
     

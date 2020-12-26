@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Quantum Chemistry Group</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Vamsee Voora</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Quantum Chemistry Group</title>
@@ -25,6 +25,14 @@ TIFR has a robust graduate program and provides a unique environment for budding
 &lt;p&gt;&lt;strong&gt;Junior/Senior research fellow:&lt;/strong&gt;
 We have one opening for a junior/senior research fellow. The student will have an opportunity to learn about and develop electronic and vibrational structure theories of extended systems. If interested please send me an email containing (i) 200 word description of your research interests and (ii) 200 word description of your research background.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -139,14 +147,6 @@ TA: Bibek Samal&lt;br&gt;
       <link>/project/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/</guid>
       <description></description>
     </item>
     
