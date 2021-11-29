@@ -5,12 +5,20 @@
     <link>/authors/john-c.-hemminger/</link>
       <atom:link href="/authors/john-c.-hemminger/index.xml" rel="self" type="application/rss+xml" />
     <description>John C. Hemminger</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Vamsee Voora</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Vamsee Voora</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>John C. Hemminger</title>
       <link>/authors/john-c.-hemminger/</link>
     </image>
+    
+    <item>
+      <title>Exploring the Solvation of Acetic Acid in Water Using Liquid Jet X-ray Photoelectron Spectroscopy and Core Level Electron Binding Energy Calculations</title>
+      <link>/publication/bruce-2021-j-phys-chem-a-8862/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/bruce-2021-j-phys-chem-a-8862/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Effective one-particle energies from generalized Kohn–Sham random phase approximation: A direct approach for computing and analyzing core ionization energies</title>

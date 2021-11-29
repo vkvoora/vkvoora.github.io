@@ -13,6 +13,71 @@
     </image>
     
     <item>
+      <title></title>
+      <link>/authors/vamsee/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/vamsee/</guid>
+      <description>&lt;p&gt;Vamsee is heading the Quantum Chemistry group at TIFR. His research interests include development of theoretical frameworks and computional tools for understanding one-electron properties. He contributes to the development of TURBOMOLE software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Amanda R. Haines</title>
+      <link>/authors/amanda-r.-haines/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/amanda-r.-haines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filipp Furche</title>
+      <link>/authors/filipp-furche/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/filipp-furche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jared P. Bruce</title>
+      <link>/authors/jared-p.-bruce/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/jared-p.-bruce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John C. Hemminger</title>
+      <link>/authors/john-c.-hemminger/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/john-c.-hemminger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kimberly Zhang</title>
+      <link>/authors/kimberly-zhang/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/kimberly-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Randima P. Galhenage</title>
+      <link>/authors/randima-p.-galhenage/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/randima-p.-galhenage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sree Ganesh Balasubramani</title>
+      <link>/authors/sree-ganesh-balasubramani/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/sree-ganesh-balasubramani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Vamsee K. Voora</title>
       <link>/authors/vamsee-k.-voora/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -121,14 +186,6 @@
       <link>/authors/fabian-mack/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/fabian-mack/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Filipp Furche</title>
-      <link>/authors/filipp-furche/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/filipp-furche/</guid>
       <description></description>
     </item>
     
@@ -261,14 +318,6 @@
     </item>
     
     <item>
-      <title>Sree Ganesh Balasubramani</title>
-      <link>/authors/sree-ganesh-balasubramani/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/sree-ganesh-balasubramani/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Thomas Müller</title>
       <link>/authors/thomas-muller/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -289,14 +338,6 @@
       <link>/authors/yannick-j.-franzke/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/yannick-j.-franzke/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>John C. Hemminger</title>
-      <link>/authors/john-c.-hemminger/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/john-c.-hemminger/</guid>
       <description></description>
     </item>
     
@@ -684,11 +725,10 @@
     
     <item>
       <title></title>
-      <link>/authors/vamsee/</link>
+      <link>/authors/sameernandan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/vamsee/</guid>
-      <description>&lt;p&gt;Vamsee is heading the Quantum Chemistry group at TIFR. His research interests include development of theoretical frameworks and computional tools for understanding one-electron properties. He contributes to the development of TURBOMOLE software.&lt;/p&gt;
-</description>
+      <guid>/authors/sameernandan/</guid>
+      <description></description>
     </item>
     
   </channel>

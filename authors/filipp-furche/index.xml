@@ -5,12 +5,20 @@
     <link>/authors/filipp-furche/</link>
       <atom:link href="/authors/filipp-furche/index.xml" rel="self" type="application/rss+xml" />
     <description>Filipp Furche</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Vamsee Voora</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Vamsee Voora</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Filipp Furche</title>
       <link>/authors/filipp-furche/</link>
     </image>
+    
+    <item>
+      <title>Exploring the Solvation of Acetic Acid in Water Using Liquid Jet X-ray Photoelectron Spectroscopy and Core Level Electron Binding Energy Calculations</title>
+      <link>/publication/bruce-2021-j-phys-chem-a-8862/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/bruce-2021-j-phys-chem-a-8862/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TURBOMOLE: Modular program suite for ab initio quantum-chemical and condensed-matter simulations</title>
