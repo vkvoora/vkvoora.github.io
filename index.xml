@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Quantum Chemistry Group</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Vamsee Voora</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Vamsee Voora</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Quantum Chemistry Group</title>
@@ -45,8 +45,9 @@ We have an opening for a junior/senior research fellow. The project involves dev
       <link>/teaching/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       <guid>/teaching/</guid>
-      <description>&lt;h2 id=&#34;symmetry-in-chemistry-spring-2021hahahugoshortcode-s0-hbhb&#34;&gt;&lt;a href=&#34;/teaching/symm/&#34;&gt;&lt;em&gt;Symmetry in Chemistry, Spring 2021&lt;/em&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;h2 id=&#34;methods-of-electronic-structure-theory-spring-2020hahahugoshortcode-s1-hbhb&#34;&gt;&lt;a href=&#34;/teaching/elec_struc/&#34;&gt;Methods of electronic structure theory, Spring 2020&lt;/a&gt;&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;methods-of-electronic-structure-theory-spring-2022hahahugoshortcode-s0-hbhb&#34;&gt;&lt;a href=&#34;/teaching/mest/&#34;&gt;Methods of electronic structure theory, Spring 2022&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;symmetry-in-chemistry-spring-2021hahahugoshortcode-s1-hbhb&#34;&gt;&lt;a href=&#34;/teaching/symm/&#34;&gt;&lt;em&gt;Symmetry in Chemistry, Spring 2021&lt;/em&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;methods-of-electronic-structure-theory-spring-2020&#34;&gt;[Methods of electronic structure theory, Spring 2020]&lt;/h2&gt;
 &lt;h2 id=&#34;methods-of-electronic-structure-theory-spring-2019&#34;&gt;Methods of electronic structure theory, Spring 2019&lt;/h2&gt;
 </description>
     </item>

@@ -5,7 +5,7 @@
     <link>/teaching/</link>
       <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>List of Courses Offered</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Vamsee Voora</copyright><lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Vamsee Voora</copyright><lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>List of Courses Offered</title>
@@ -187,14 +187,14 @@ $$H^{QO}_{i,i-4} = \frac{1}{2}\sqrt{i(i-1)(i-2)(i-3)} ;\text{. (10pts)}$$&lt;/p&
     
     <item>
       <title> </title>
-      <link>/teaching/elec_struc/</link>
+      <link>/teaching/mest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/teaching/elec_struc/</guid>
+      <guid>/teaching/mest/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;h1 id=&#34;methods-of-electronic-structure-theory&#34;&gt;Methods of Electronic Structure Theory&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Graduate course, Spring 2020&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Graduate course, Spring 2022&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;goals&#34;&gt;Goals&lt;/h2&gt;
-&lt;p&gt;Electronic structure methods are an indispensable set of tools for understanding the nature of chemical binding, for predicting properties of molecules and materials, and for analyzing  the response of molecules to external stimuli like light. Decades of intensive research has also resulted in a large variety of methods that often confounds the users. However, they all fall under two main class of methods: wavefunction based and density function based methods.  A fundamental understanding of these methods can aid in our researchers and practitioners of this field. To this end, this course aims to&lt;/p&gt;
+&lt;p&gt;Electronic structure methods are an indispensable set of tools for understanding the nature of chemical binding, for predicting properties of molecules and materials, and for analyzing  the response of molecules to external stimuli like light. Decades of intensive research has also resulted in a large variety of methods that often confounds the users. However, they all fall under two main class of methods: wavefunction based and density function based methods.  A fundamental understanding of these methods can aid researchers and practitioners of this field. To this end, this course aims to&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;understand the approximations that go into various quantum chemistry methods&lt;/li&gt;
 &lt;li&gt;develop a quantitative understanding of chemical binding; aspects of covalent and non-covalent bonding will be covered.&lt;/li&gt;
@@ -240,6 +240,9 @@ $$H^{QO}_{i,i-4} = \frac{1}{2}\sqrt{i(i-1)(i-2)(i-3)} ;\text{. (10pts)}$$&lt;/p&
 &lt;li&gt;
 &lt;p&gt;Intermolecular interactions&lt;/p&gt;
 &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Modern computational tools for quantum chemistry&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;suggested-books&#34;&gt;Suggested books&lt;/h2&gt;
 &lt;ol&gt;
@@ -275,15 +278,15 @@ Advanced Course&lt;/em&gt;, Springer Berlin Heidelberg, 2011.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt; Linear algebra and basic quantum chemistry.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Grading Policy:&lt;/strong&gt; Weekly assignments (30%), Midterm (35%), Final
 (35%).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; AG80&lt;br&gt;
-&lt;strong&gt;Hours:&lt;/strong&gt; Mon, Thu 11:30 am &amp;ndash; 1:00 pm
+&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; AG66&lt;br&gt;
+&lt;strong&gt;Time:&lt;/strong&gt; Tue, Fri 11:30 am &amp;ndash; 1:00 pm&lt;br&gt;
 &lt;strong&gt;Office Hours:&lt;/strong&gt; TF 2&amp;ndash;3 pm or set-up an appointment via email&lt;br&gt;
 &lt;br&gt;
 &lt;strong&gt;Instructor:&lt;/strong&gt; Vamsee Voora&lt;br&gt;
 Email: &lt;a href=&#34;mailto:vamsee.voora@tifr.res.in&#34;&gt;vamsee.voora@tifr.res.in&lt;/a&gt;&lt;br&gt;
 Office: NMR 201&lt;br&gt;
-TA: Bibek Samal&lt;br&gt;
-&lt;em&gt;&lt;strong&gt;First lecture on Jan 20th (Monday)&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+TA: Ritaj Tyagi&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;First lecture on Jan 18th (Tue)&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
