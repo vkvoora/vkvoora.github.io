@@ -8,6 +8,41 @@
   </url>
   
   <url>
+    <loc>/project/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/quantum-chemistry/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/xps/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/ips/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/elec_struc/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/vamsee/</loc>
     <lastmod>2021-11-29T12:53:42+05:30</lastmod>
   </url>
@@ -64,11 +99,6 @@
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2021-11-29T12:53:42+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2021-11-29T12:53:42+05:30</lastmod>
   </url>
   
@@ -233,23 +263,8 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/quantum-chemistry/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/robin-grotjahn/</loc>
     <lastmod>2020-12-27T01:34:08+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/xps/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -270,11 +285,6 @@
   <url>
     <loc>/authors/sonia-coriani/</loc>
     <lastmod>2020-12-27T01:34:08+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -314,11 +324,6 @@
   
   <url>
     <loc>/publication/voora-2019-j-chem-phys-134106/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/ips/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -665,6 +670,10 @@
   
   <url>
     <loc>/authors/sameernandan/</loc>
+  </url>
+  
+  <url>
+    <loc>/research/</loc>
   </url>
   
   <url>

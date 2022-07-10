@@ -5,7 +5,7 @@
     <link>/tags/quantum-chemistry/</link>
       <atom:link href="/tags/quantum-chemistry/index.xml" rel="self" type="application/rss+xml" />
     <description>Quantum chemistry</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Vamsee Voora</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Vamsee Voora</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Quantum chemistry</title>
@@ -13,21 +13,30 @@
     </image>
     
     <item>
-      <title>RPA methods for X-ray spectroscopy</title>
+      <title>X-ray spectroscopy of molecules and liquids</title>
       <link>/project/xps/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/project/xps/</guid>
-      <description>&lt;p&gt;X-ray spectroscopies such as XPS, XES and XAS provide local information of charge accommodation as they probe core-electrons and their transitions. XPS methods are now being used in conjunction with liquids, where the nature of chemical shifts, i.e. change in core-electron binding energies (CEBEs) upon solvation, is poorly understood. Simulating theoretical XPS is challenging due to high lying nature of core excitations, large relaxation effects, and relativistic effects. We have recently shown that the generalized Kohn&amp;ndash;Sham random phase approximation (GKS-RPA) method provides effective one-particle energies which can be used to estimate the CEBEs. In addition, the GKS-RPA Hamiltonian can be partitioned into static, relaxation and correlation effects which provides valuable physical insights into the nature chemical shifts.&lt;/p&gt;
-&lt;p&gt;We are now extending GKS-RPA methods with analytic continuation and MPI coding to enable fast computation of IPs. We are also working on incorporating relativistic effects, which are necessary for the study of transition metal complexes.&lt;/p&gt;
+      <description>&lt;p&gt;X-ray spectroscopic techniques provide local electronic structure information by perturbing core-electrons. X-ray techniques such as XPS, XES and XAS provide information about local-oxidation states, nature of occupied/virtual orbitals, and nature of chemical bonding. These crucial techniques are receiving a leg-up from new generations of synchrotrons and X-ray free-electron lasers which are providing high intensity X-rays.&lt;/p&gt;
+&lt;p&gt;We are developing models to simulate and understand molecular and liquid-phase X-ray spectra using effective potential models based on the random phase approximation (RPA). These models do not depend on core-hole reference states, and hence overcome the issues with variational instability.  We also develop strategies to analyze the variations in core-electron binding energies by partitioning the RPA one-particle Hamiltonians.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Fast computation of ionization potentials</title>
+      <title>Charge mobility in organic materials</title>
       <link>/project/ips/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>/project/ips/</guid>
-      <description>&lt;p&gt;An understanding of one-electron properties, such as electron affinities or ionization potentials, in a many-body system is directly relevant to the fields of catalysis, solar energy capture and redox chemical reactions. Theoretical methods that can describe ionization processes with an accuracy of 0.1 eV are necessary to be considered reliable for tailoring molecular properties. In addition, the methods need to be amenable to modern computers for studying large chemical systems with hundreds of atoms. Similarly, there is a need to account for environmental factors such as neighboring molecule effects, bias effects and vibrational dynamics that affect electron  binding and transport properties. To these ends the group will work on implementing various chemical models based on Green&amp;rsquo;s function methods and generalized Koopmans&amp;rsquo; theorem. The developed methods, for example, will be used in conjunction with liquid-jet photoelectron spectroscopies to understand the impact of solvation on one-electron properties.&lt;/p&gt;
+      <description>&lt;p&gt;One of the most crucial parameters that defines the performance of organic semiconducting materials is its charge carrier mobility. This intrinsic property is determined by temperature, crystallinity of the material, electronic and vibronic couplings. We are investigating new charge transport pathways due to diffuse electronic states that span several monomer units. These states may lead to larger electronic couplings and lower barriers to charge transfer. Our recent investigations have shown that such states are present in a variety of organic molecules ranging from halogenated aromatic systems to highly conjugated fullerene molecules. We are also investigating the role of underlying crystal structure in determining the electronic couplings.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Electronic Structure Method Development</title>
+      <link>/project/elec_struc/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/project/elec_struc/</guid>
+      <description>&lt;p&gt;To understand intermolecular interactions and one-electron properties we are developing post-Kohn-Sham (KS) approaches. The focus is on random phase approximation (RPA)-based methods that seamlessly incorporate van der Waals interactions to all orders and incorporate screening effects. The latter is particularly important as we tackle charge transfer processes in the regimes of molecular materials and liquids. We have formulated a generalized Kohn-Sham (GKS) scheme for a semi-canonical projected (sp) RPA that provides accurate energy and potential based properties such as intermolecular interaction energies and principal ionization potentials. Our initial results have shown that anions are correctly predicted to be stable within the GKS-spRPA scheme, which is currently a limitation for several semi-local functionals. We have also shown that accurate core-electron binding energies can be simulated using GKS-spRPA without any need for core-hole references states. Our current focus in this area involves extension of GKS-spRPA methods for X-ray spectroscopy and developing efficient algorithms that enable large-scale GKS-spRPA computational studies.&lt;/p&gt;
 </description>
     </item>
     
