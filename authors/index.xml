@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Vamsee Voora</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Vamsee Voora</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,10 +15,50 @@
     <item>
       <title></title>
       <link>/authors/vamsee/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/authors/vamsee/</guid>
       <description>&lt;p&gt;Vamsee is heading the Quantum Chemistry group at TIFR. His research interests include development of theoretical frameworks and computional tools for understanding one-electron properties. He contributes to the development of TURBOMOLE software.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Filipp Furche</title>
+      <link>/authors/filipp-furche/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/filipp-furche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jyotishman Dasgupta</title>
+      <link>/authors/jyotishman-dasgupta/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/jyotishman-dasgupta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sree Ganesh Balasubramani</title>
+      <link>/authors/sree-ganesh-balasubramani/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/sree-ganesh-balasubramani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sunandita Paul</title>
+      <link>/authors/sunandita-paul/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/sunandita-paul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vamsee K. Voora</title>
+      <link>/authors/vamsee-k.-voora/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/vamsee-k.-voora/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -26,14 +66,6 @@
       <link>/authors/amanda-r.-haines/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/authors/amanda-r.-haines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Filipp Furche</title>
-      <link>/authors/filipp-furche/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/filipp-furche/</guid>
       <description></description>
     </item>
     
@@ -66,22 +98,6 @@
       <link>/authors/randima-p.-galhenage/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/authors/randima-p.-galhenage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sree Ganesh Balasubramani</title>
-      <link>/authors/sree-ganesh-balasubramani/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/sree-ganesh-balasubramani/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vamsee K. Voora</title>
-      <link>/authors/vamsee-k.-voora/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/vamsee-k.-voora/</guid>
       <description></description>
     </item>
     

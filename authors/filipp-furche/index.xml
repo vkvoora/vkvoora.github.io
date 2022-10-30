@@ -5,12 +5,20 @@
     <link>/authors/filipp-furche/</link>
       <atom:link href="/authors/filipp-furche/index.xml" rel="self" type="application/rss+xml" />
     <description>Filipp Furche</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Vamsee Voora</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Vamsee Voora</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Filipp Furche</title>
       <link>/authors/filipp-furche/</link>
     </image>
+    
+    <item>
+      <title>Static polarizabilities within the generalized Kohn–Sham semicanonical projected random phase approximation (GKS-spRPA)</title>
+      <link>/publication/balasubramani-2022-jcp/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/balasubramani-2022-jcp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Exploring the Solvation of Acetic Acid in Water Using Liquid Jet X-ray Photoelectron Spectroscopy and Core Level Electron Binding Energy Calculations</title>
