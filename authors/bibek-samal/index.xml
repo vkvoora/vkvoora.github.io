@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bibek Samal | Quantum Chemistry Group</title>
+    <link>/authors/bibek-samal/</link>
+      <atom:link href="/authors/bibek-samal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bibek Samal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Vamsee Voora</copyright><lastBuildDate>Wed, 09 Nov 2022 17:32:41 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Bibek Samal</title>
+      <link>/authors/bibek-samal/</link>
+    </image>
+    
+    <item>
+      <title>Modeling Nonresonant X-ray Emission of Second- and Third-Period Elements without Core-Hole Reference States and Empirical Parameters</title>
+      <link>/publication/samal-2022/</link>
+      <pubDate>Wed, 09 Nov 2022 17:32:41 +0000</pubDate>
+      <guid>/publication/samal-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Vamsee Voora</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Vamsee Voora</copyright><lastBuildDate>Wed, 09 Nov 2022 17:32:41 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -14,11 +14,36 @@
     
     <item>
       <title></title>
+      <link>/authors/bibek/</link>
+      <pubDate>Wed, 09 Nov 2022 17:32:41 +0000</pubDate>
+      <guid>/authors/bibek/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/vamsee/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 09 Nov 2022 17:32:41 +0000</pubDate>
       <guid>/authors/vamsee/</guid>
       <description>&lt;p&gt;Vamsee is heading the Quantum Chemistry group at TIFR. His research interests include development of theoretical frameworks and computional tools for understanding one-electron properties. He contributes to the development of TURBOMOLE software.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Bibek Samal</title>
+      <link>/authors/bibek-samal/</link>
+      <pubDate>Wed, 09 Nov 2022 17:32:41 +0000</pubDate>
+      <guid>/authors/bibek-samal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vamsee K. Voora</title>
+      <link>/authors/vamsee-k.-voora/</link>
+      <pubDate>Wed, 09 Nov 2022 17:32:41 +0000</pubDate>
+      <guid>/authors/vamsee-k.-voora/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -50,14 +75,6 @@
       <link>/authors/sunandita-paul/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/authors/sunandita-paul/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vamsee K. Voora</title>
-      <link>/authors/vamsee-k.-voora/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/vamsee-k.-voora/</guid>
       <description></description>
     </item>
     
@@ -708,15 +725,6 @@
       <guid>/authors/abhisekg/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/bibek/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/bibek/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     

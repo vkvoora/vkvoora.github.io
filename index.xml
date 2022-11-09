@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Quantum Chemistry Group</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Vamsee Voora</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Vamsee Voora</copyright><lastBuildDate>Wed, 09 Nov 2022 17:32:41 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Quantum Chemistry Group</title>
@@ -33,18 +33,18 @@ We have an opening for a junior/senior research fellow. The project involves dev
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/project/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/project/</guid>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Wed, 09 Nov 2022 17:32:41 +0000</pubDate>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/publication/</link>
+      <title>Projects</title>
+      <link>/project/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/</guid>
+      <guid>/project/</guid>
       <description></description>
     </item>
     
