@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Vamsee Voora</copyright><lastBuildDate>Wed, 09 Nov 2022 17:32:41 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Vamsee Voora</copyright><lastBuildDate>Wed, 09 Nov 2022 17:32:41 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -730,6 +730,15 @@
     
     <item>
       <title></title>
+      <link>/authors/poulami/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/poulami/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/pulkit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/pulkit/</guid>
@@ -753,6 +762,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/sameernandan/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/sanjeev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/sanjeev/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
     </item>
     
   </channel>
