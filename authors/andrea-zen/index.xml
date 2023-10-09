@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrea Zen | Quantum Chemistry Group</title>
+    <link>/authors/andrea-zen/</link>
+      <atom:link href="/authors/andrea-zen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrea Zen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Vamsee Voora</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Andrea Zen</title>
+      <link>/authors/andrea-zen/</link>
+    </image>
+    
+    <item>
+      <title>Quantifying the Impact of Halogenation on Intermolecular Interactions and Binding Modes of Aromatic Molecules</title>
+      <link>/publication/tyagi-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/tyagi-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>/authors/bibek-samal/</link>
       <atom:link href="/authors/bibek-samal/index.xml" rel="self" type="application/rss+xml" />
     <description>Bibek Samal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Vamsee Voora</copyright><lastBuildDate>Wed, 09 Nov 2022 17:32:41 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Vamsee Voora</copyright><lastBuildDate>Mon, 09 Oct 2023 12:14:24 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Bibek Samal</title>
       <link>/authors/bibek-samal/</link>
     </image>
+    
+    <item>
+      <title>TURBOMOLE: Today and Tomorrow</title>
+      <link>/publication/franzke-2023/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/publication/franzke-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Modeling Nonresonant X-ray Emission of Second- and Third-Period Elements without Core-Hole Reference States and Empirical Parameters</title>

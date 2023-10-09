@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Vamsee Voora</copyright><lastBuildDate>Wed, 09 Nov 2022 17:32:41 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Vamsee Voora</copyright><lastBuildDate>Mon, 09 Oct 2023 12:14:24 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/bibek/</link>
-      <pubDate>Wed, 09 Nov 2022 17:32:41 +0000</pubDate>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
       <guid>/authors/bibek/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 </description>
@@ -24,33 +24,370 @@
     <item>
       <title></title>
       <link>/authors/vamsee/</link>
-      <pubDate>Wed, 09 Nov 2022 17:32:41 +0000</pubDate>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
       <guid>/authors/vamsee/</guid>
       <description>&lt;p&gt;Vamsee is heading the Quantum Chemistry group at TIFR. His research interests include development of theoretical frameworks and computional tools for understanding one-electron properties. He contributes to the development of TURBOMOLE software.&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Ahmadreza Rajabi</title>
+      <link>/authors/ahmadreza-rajabi/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/ahmadreza-rajabi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansgar Pausch</title>
+      <link>/authors/ansgar-pausch/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/ansgar-pausch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artur Wodyński</title>
+      <link>/authors/artur-wodynski/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/artur-wodynski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benedikt Zerulla</title>
+      <link>/authors/benedikt-zerulla/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/benedikt-zerulla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bibek Samal</title>
       <link>/authors/bibek-samal/</link>
-      <pubDate>Wed, 09 Nov 2022 17:32:41 +0000</pubDate>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
       <guid>/authors/bibek-samal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Vamsee K. Voora</title>
-      <link>/authors/vamsee-k.-voora/</link>
-      <pubDate>Wed, 09 Nov 2022 17:32:41 +0000</pubDate>
-      <guid>/authors/vamsee-k.-voora/</guid>
+      <title>Brian D. Nguyen</title>
+      <link>/authors/brian-d.-nguyen/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/brian-d.-nguyen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christof Holzer</title>
+      <link>/authors/christof-holzer/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/christof-holzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christof Hättig</title>
+      <link>/authors/christof-hattig/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/christof-hattig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniil A. Fedotov</title>
+      <link>/authors/daniil-a.-fedotov/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/daniil-a.-fedotov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David P. Tew</title>
+      <link>/authors/david-p.-tew/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/david-p.-tew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dmitrij Rappoport</title>
+      <link>/authors/dmitrij-rappoport/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/dmitrij-rappoport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eduardo Fabiano</title>
+      <link>/authors/eduardo-fabiano/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/eduardo-fabiano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enrico Tapavicza</title>
+      <link>/authors/enrico-tapavicza/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/enrico-tapavicza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eva Perlt</title>
+      <link>/authors/eva-perlt/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/eva-perlt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabian Mack</title>
+      <link>/authors/fabian-mack/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/fabian-mack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabian Pauly</title>
+      <link>/authors/fabian-pauly/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/fabian-pauly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabio Della Sala</title>
+      <link>/authors/fabio-della-sala/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/fabio-della-sala/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Filipp Furche</title>
       <link>/authors/filipp-furche/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
       <guid>/authors/filipp-furche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florian Bruder</title>
+      <link>/authors/florian-bruder/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/florian-bruder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florian Weigend</title>
+      <link>/authors/florian-weigend/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/florian-weigend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gabriel S. Phun</title>
+      <link>/authors/gabriel-s.-phun/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/gabriel-s.-phun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason M. Yu</title>
+      <link>/authors/jason-m.-yu/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/jason-m.-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josefine H. Andersen</title>
+      <link>/authors/josefine-h.-andersen/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/josefine-h.-andersen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manas Sharma</title>
+      <link>/authors/manas-sharma/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/manas-sharma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marek Sierka</title>
+      <link>/authors/marek-sierka/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/marek-sierka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marjan Krstić</title>
+      <link>/authors/marjan-krstic/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/marjan-krstic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin Kaupp</title>
+      <link>/authors/martin-kaupp/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/martin-kaupp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Max Kehry</title>
+      <link>/authors/max-kehry/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/max-kehry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert S. Treß</title>
+      <link>/authors/robert-s.-tre%C3%9F/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/robert-s.-tre%C3%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robin Grotjahn</title>
+      <link>/authors/robin-grotjahn/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/robin-grotjahn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Gillhuber</title>
+      <link>/authors/sebastian-gillhuber/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/sebastian-gillhuber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shane M. Parker</title>
+      <link>/authors/shane-m.-parker/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/shane-m.-parker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonia Coriani</title>
+      <link>/authors/sonia-coriani/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/sonia-coriani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sourav Majumdar</title>
+      <link>/authors/sourav-majumdar/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/sourav-majumdar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Susanne Fürst</title>
+      <link>/authors/susanne-furst/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/susanne-furst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tim Schrader</title>
+      <link>/authors/tim-schrader/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/tim-schrader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomislav Begušić</title>
+      <link>/authors/tomislav-begusic/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/tomislav-begusic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vamsee Voora</title>
+      <link>/authors/vamsee-voora/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/vamsee-voora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yannick J. Franzke</title>
+      <link>/authors/yannick-j.-franzke/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/yannick-j.-franzke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/ritaj/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/ritaj/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Andrea Zen</title>
+      <link>/authors/andrea-zen/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/andrea-zen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rishi Verma</title>
+      <link>/authors/rishi-verma/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/rishi-verma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ritaj Tyagi</title>
+      <link>/authors/ritaj-tyagi/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/ritaj-tyagi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vamsee K. Voora</title>
+      <link>/authors/vamsee-k.-voora/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/vamsee-k.-voora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vivek Polshettiwar</title>
+      <link>/authors/vivek-polshettiwar/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/vivek-polshettiwar/</guid>
       <description></description>
     </item>
     
@@ -135,14 +472,6 @@
     </item>
     
     <item>
-      <title>Artur Wodyński</title>
-      <link>/authors/artur-wodynski/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/artur-wodynski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Benjamin Helmich-Paris</title>
       <link>/authors/benjamin-helmich-paris/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -151,82 +480,10 @@
     </item>
     
     <item>
-      <title>Brian D. Nguyen</title>
-      <link>/authors/brian-d.-nguyen/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/brian-d.-nguyen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Christof Holzer</title>
-      <link>/authors/christof-holzer/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/christof-holzer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Christof Hättig</title>
-      <link>/authors/christof-hattig/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/christof-hattig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Christoph van Wüllen</title>
       <link>/authors/christoph-van-wullen/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/christoph-van-wullen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David P. Tew</title>
-      <link>/authors/david-p.-tew/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/david-p.-tew/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dmitrij Rappoport</title>
-      <link>/authors/dmitrij-rappoport/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/dmitrij-rappoport/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enrico Tapavicza</title>
-      <link>/authors/enrico-tapavicza/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/enrico-tapavicza/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eva Perlt</title>
-      <link>/authors/eva-perlt/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/eva-perlt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fabian Mack</title>
-      <link>/authors/fabian-mack/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/fabian-mack/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Florian Weigend</title>
-      <link>/authors/florian-weigend/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/florian-weigend/</guid>
       <description></description>
     </item>
     
@@ -247,14 +504,6 @@
     </item>
     
     <item>
-      <title>Jason M. Yu</title>
-      <link>/authors/jason-m.-yu/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/jason-m.-yu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kevin Reiter</title>
       <link>/authors/kevin-reiter/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -263,26 +512,10 @@
     </item>
     
     <item>
-      <title>Marek Sierka</title>
-      <link>/authors/marek-sierka/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/marek-sierka/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Marius S. Frank</title>
       <link>/authors/marius-s.-frank/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/marius-s.-frank/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Martin Kaupp</title>
-      <link>/authors/martin-kaupp/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/martin-kaupp/</guid>
       <description></description>
     </item>
     
@@ -311,14 +544,6 @@
     </item>
     
     <item>
-      <title>Robin Grotjahn</title>
-      <link>/authors/robin-grotjahn/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/robin-grotjahn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sarah Karbalaei Khani</title>
       <link>/authors/sarah-karbalaei-khani/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -335,22 +560,6 @@
     </item>
     
     <item>
-      <title>Shane M. Parker</title>
-      <link>/authors/shane-m.-parker/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/shane-m.-parker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sonia Coriani</title>
-      <link>/authors/sonia-coriani/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/sonia-coriani/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Thomas Müller</title>
       <link>/authors/thomas-muller/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -363,14 +572,6 @@
       <link>/authors/uwe-huniar/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/uwe-huniar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yannick J. Franzke</title>
-      <link>/authors/yannick-j.-franzke/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/yannick-j.-franzke/</guid>
       <description></description>
     </item>
     
@@ -744,15 +945,6 @@
       <guid>/authors/pulkit/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/ritaj/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/ritaj/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     

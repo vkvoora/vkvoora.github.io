@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert S. Treß | Quantum Chemistry Group</title>
+    <link>/authors/robert-s.-tre%C3%9F/</link>
+      <atom:link href="/authors/robert-s.-tre%C3%9F/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert S. Treß</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Vamsee Voora</copyright><lastBuildDate>Mon, 09 Oct 2023 12:14:24 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Robert S. Treß</title>
+      <link>/authors/robert-s.-tre%C3%9F/</link>
+    </image>
+    
+    <item>
+      <title>TURBOMOLE: Today and Tomorrow</title>
+      <link>/publication/franzke-2023/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/publication/franzke-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

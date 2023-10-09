@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rishi Verma | Quantum Chemistry Group</title>
+    <link>/authors/rishi-verma/</link>
+      <atom:link href="/authors/rishi-verma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rishi Verma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Vamsee Voora</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Rishi Verma</title>
+      <link>/authors/rishi-verma/</link>
+    </image>
+    
+    <item>
+      <title>Black Gold-Based “Antenna–Reactor” To Activate Non-Plasmonic Nickel: Photocatalytic Hydrodechlorination and Hydrogenation Reactions</title>
+      <link>/publication/verma-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/verma-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
