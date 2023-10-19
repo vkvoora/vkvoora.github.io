@@ -5,7 +5,7 @@
     <link>/authors/lorenz-s.-cederbaum/</link>
       <atom:link href="/authors/lorenz-s.-cederbaum/index.xml" rel="self" type="application/rss+xml" />
     <description>Lorenz S. Cederbaum</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Vamsee Voora</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Vamsee Voora</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Lorenz S. Cederbaum</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Existence of a Correlation Bound s-Type Anion State of C_60</title>
       <link>/publication/voora-2013-j-phys-chem-lett-849/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>/publication/voora-2013-j-phys-chem-lett-849/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Benchmark Calculations of the Energies for Binding Excess Electrons to Water Clusters</title>
       <link>/publication/vysotskiy-2012-chem-theory-comput-893/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>/publication/vysotskiy-2012-chem-theory-comput-893/</guid>
       <description></description>
     </item>

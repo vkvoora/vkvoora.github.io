@@ -13,24 +13,6 @@
     </image>
     
     <item>
-      <title></title>
-      <link>/authors/bibek/</link>
-      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
-      <guid>/authors/bibek/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/vamsee/</link>
-      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
-      <guid>/authors/vamsee/</guid>
-      <description>&lt;p&gt;Vamsee is heading the Quantum Chemistry group at TIFR. His research interests include development of theoretical frameworks and computional tools for understanding one-electron properties. He contributes to the development of TURBOMOLE software.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Ahmadreza Rajabi</title>
       <link>/authors/ahmadreza-rajabi/</link>
       <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
@@ -79,18 +61,18 @@
     </item>
     
     <item>
-      <title>Christof Holzer</title>
-      <link>/authors/christof-holzer/</link>
-      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
-      <guid>/authors/christof-holzer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Christof Hättig</title>
       <link>/authors/christof-hattig/</link>
       <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
       <guid>/authors/christof-hattig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christof Holzer</title>
+      <link>/authors/christof-holzer/</link>
+      <pubDate>Mon, 09 Oct 2023 12:14:24 +0000</pubDate>
+      <guid>/authors/christof-holzer/</guid>
       <description></description>
     </item>
     
@@ -343,15 +325,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>/authors/ritaj/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/authors/ritaj/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Andrea Zen</title>
       <link>/authors/andrea-zen/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -586,7 +559,7 @@
     <item>
       <title>Adeayo Ajala</title>
       <link>/authors/adeayo-ajala/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/authors/adeayo-ajala/</guid>
       <description></description>
     </item>
@@ -594,7 +567,7 @@
     <item>
       <title>Alan K. Chan</title>
       <link>/authors/alan-k.-chan/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/authors/alan-k.-chan/</guid>
       <description></description>
     </item>
@@ -602,7 +575,7 @@
     <item>
       <title>Arnold L. Rheingold</title>
       <link>/authors/arnold-l.-rheingold/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/authors/arnold-l.-rheingold/</guid>
       <description></description>
     </item>
@@ -610,7 +583,7 @@
     <item>
       <title>Chad T. Palumbo</title>
       <link>/authors/chad-t.-palumbo/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/authors/chad-t.-palumbo/</guid>
       <description></description>
     </item>
@@ -618,7 +591,7 @@
     <item>
       <title>Dominik P. Halter</title>
       <link>/authors/dominik-p.-halter/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/authors/dominik-p.-halter/</guid>
       <description></description>
     </item>
@@ -626,7 +599,7 @@
     <item>
       <title>Francesco Paesani</title>
       <link>/authors/francesco-paesani/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/authors/francesco-paesani/</guid>
       <description></description>
     </item>
@@ -634,7 +607,7 @@
     <item>
       <title>Joseph W. Ziller</title>
       <link>/authors/joseph-w.-ziller/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/authors/joseph-w.-ziller/</guid>
       <description></description>
     </item>
@@ -642,7 +615,7 @@
     <item>
       <title>Karsten Meyer</title>
       <link>/authors/karsten-meyer/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/authors/karsten-meyer/</guid>
       <description></description>
     </item>
@@ -650,7 +623,7 @@
     <item>
       <title>Megan E. Fieser</title>
       <link>/authors/megan-e.-fieser/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/authors/megan-e.-fieser/</guid>
       <description></description>
     </item>
@@ -658,7 +631,7 @@
     <item>
       <title>Milan Gembicky</title>
       <link>/authors/milan-gembicky/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/authors/milan-gembicky/</guid>
       <description></description>
     </item>
@@ -666,7 +639,7 @@
     <item>
       <title>Narbe Mardirossian</title>
       <link>/authors/narbe-mardirossian/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/authors/narbe-mardirossian/</guid>
       <description></description>
     </item>
@@ -674,7 +647,7 @@
     <item>
       <title>William J. Evans</title>
       <link>/authors/william-j.-evans/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/authors/william-j.-evans/</guid>
       <description></description>
     </item>
@@ -682,7 +655,7 @@
     <item>
       <title>Wolfgang Hieringer</title>
       <link>/authors/wolfgang-hieringer/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/authors/wolfgang-hieringer/</guid>
       <description></description>
     </item>
@@ -690,7 +663,7 @@
     <item>
       <title> others</title>
       <link>/authors/others/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/authors/others/</guid>
       <description></description>
     </item>
@@ -698,7 +671,7 @@
     <item>
       <title>Anne R Szklarski</title>
       <link>/authors/anne-r-szklarski/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/authors/anne-r-szklarski/</guid>
       <description></description>
     </item>
@@ -706,7 +679,7 @@
     <item>
       <title>Arailym Kairalapova</title>
       <link>/authors/arailym-kairalapova/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/authors/arailym-kairalapova/</guid>
       <description></description>
     </item>
@@ -714,7 +687,7 @@
     <item>
       <title>Camila Zanette</title>
       <link>/authors/camila-zanette/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/authors/camila-zanette/</guid>
       <description></description>
     </item>
@@ -722,7 +695,7 @@
     <item>
       <title>David A Horne</title>
       <link>/authors/david-a-horne/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/authors/david-a-horne/</guid>
       <description></description>
     </item>
@@ -730,7 +703,7 @@
     <item>
       <title>Henry S. La Pierre</title>
       <link>/authors/henry-s.-la-pierre/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/authors/henry-s.-la-pierre/</guid>
       <description></description>
     </item>
@@ -738,7 +711,7 @@
     <item>
       <title>Kenneth D. Jordan</title>
       <link>/authors/kenneth-d.-jordan/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/authors/kenneth-d.-jordan/</guid>
       <description></description>
     </item>
@@ -746,7 +719,7 @@
     <item>
       <title>Matthew M. Agee</title>
       <link>/authors/matthew-m.-agee/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/authors/matthew-m.-agee/</guid>
       <description></description>
     </item>
@@ -754,7 +727,7 @@
     <item>
       <title>Mélanie Meyer</title>
       <link>/authors/melanie-meyer/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/authors/melanie-meyer/</guid>
       <description></description>
     </item>
@@ -762,7 +735,7 @@
     <item>
       <title>Regina Cencic</title>
       <link>/authors/regina-cencic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/authors/regina-cencic/</guid>
       <description></description>
     </item>
@@ -770,7 +743,7 @@
     <item>
       <title>Sangkil Nam</title>
       <link>/authors/sangkil-nam/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/authors/sangkil-nam/</guid>
       <description></description>
     </item>
@@ -778,7 +751,7 @@
     <item>
       <title>Sharon E Michalak</title>
       <link>/authors/sharon-e-michalak/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/authors/sharon-e-michalak/</guid>
       <description></description>
     </item>
@@ -786,7 +759,7 @@
     <item>
       <title>Simone Pellegrino</title>
       <link>/authors/simone-pellegrino/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/authors/simone-pellegrino/</guid>
       <description></description>
     </item>
@@ -794,7 +767,7 @@
     <item>
       <title>Thomas Sommerfeld</title>
       <link>/authors/thomas-sommerfeld/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/authors/thomas-sommerfeld/</guid>
       <description></description>
     </item>
@@ -802,7 +775,7 @@
     <item>
       <title>Vamsee K Voora</title>
       <link>/authors/vamsee-k-voora/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/authors/vamsee-k-voora/</guid>
       <description></description>
     </item>
@@ -810,7 +783,7 @@
     <item>
       <title>Zef A Könst</title>
       <link>/authors/zef-a-konst/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/authors/zef-a-konst/</guid>
       <description></description>
     </item>
@@ -818,7 +791,7 @@
     <item>
       <title>Jack Simons</title>
       <link>/authors/jack-simons/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>/authors/jack-simons/</guid>
       <description></description>
     </item>
@@ -826,7 +799,7 @@
     <item>
       <title>K. D. Jordan</title>
       <link>/authors/k.-d.-jordan/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>/authors/k.-d.-jordan/</guid>
       <description></description>
     </item>
@@ -834,7 +807,7 @@
     <item>
       <title>T. T. Odbadrakh</title>
       <link>/authors/t.-t.-odbadrakh/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>/authors/t.-t.-odbadrakh/</guid>
       <description></description>
     </item>
@@ -842,7 +815,7 @@
     <item>
       <title>V. Voora</title>
       <link>/authors/v.-voora/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>/authors/v.-voora/</guid>
       <description></description>
     </item>
@@ -850,7 +823,7 @@
     <item>
       <title>Jing Ding</title>
       <link>/authors/jing-ding/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>/authors/jing-ding/</guid>
       <description></description>
     </item>
@@ -858,7 +831,7 @@
     <item>
       <title>Lorenz S. Cederbaum</title>
       <link>/authors/lorenz-s.-cederbaum/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>/authors/lorenz-s.-cederbaum/</guid>
       <description></description>
     </item>
@@ -866,7 +839,7 @@
     <item>
       <title>Andrew F. DeBlase</title>
       <link>/authors/andrew-f.-deblase/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>/authors/andrew-f.-deblase/</guid>
       <description></description>
     </item>
@@ -874,7 +847,7 @@
     <item>
       <title>Kristin J. Breen</title>
       <link>/authors/kristin-j.-breen/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>/authors/kristin-j.-breen/</guid>
       <description></description>
     </item>
@@ -882,7 +855,7 @@
     <item>
       <title>Mark A. Johnson</title>
       <link>/authors/mark-a.-johnson/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>/authors/mark-a.-johnson/</guid>
       <description></description>
     </item>
@@ -890,7 +863,7 @@
     <item>
       <title>Takashi Nagata</title>
       <link>/authors/takashi-nagata/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>/authors/takashi-nagata/</guid>
       <description></description>
     </item>
@@ -898,7 +871,7 @@
     <item>
       <title>Timothy L. Guasco</title>
       <link>/authors/timothy-l.-guasco/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>/authors/timothy-l.-guasco/</guid>
       <description></description>
     </item>
@@ -906,7 +879,7 @@
     <item>
       <title>Victor P. Vysotskiy</title>
       <link>/authors/victor-p.-vysotskiy/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>/authors/victor-p.-vysotskiy/</guid>
       <description></description>
     </item>
@@ -914,7 +887,7 @@
     <item>
       <title>W. A. Al-Saidi</title>
       <link>/authors/w.-a.-al-saidi/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>/authors/w.-a.-al-saidi/</guid>
       <description></description>
     </item>
@@ -926,6 +899,15 @@
       <guid>/authors/abhisekg/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/bibek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/bibek/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
@@ -950,6 +932,15 @@
     
     <item>
       <title></title>
+      <link>/authors/ritaj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/ritaj/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/sameernandan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/sameernandan/</guid>
@@ -962,6 +953,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/sanjeev/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/vamsee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/vamsee/</guid>
+      <description>&lt;p&gt;Vamsee is heading the Quantum Chemistry group at TIFR. His research interests include development of theoretical frameworks and computional tools for understanding one-electron properties. He contributes to the development of TURBOMOLE software.&lt;/p&gt;
 </description>
     </item>
     

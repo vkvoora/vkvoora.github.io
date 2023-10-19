@@ -15,7 +15,7 @@
     <item>
       <title>Openings</title>
       <link>/openings/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/openings/</guid>
       <description>&lt;p&gt;TIFR is a leading research institute with a focus on fundamental research, and provides various opportunities for collaborative projects. My group is interested in developing robust first-principles based quantum chemistry methods with a focus on understanding charge-accommodation and charge-transport problems. If you would like to be a part of the quantum chemistry team at TIFR, please consider the following options&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Postdoctoral researcher:&lt;/strong&gt;
@@ -66,7 +66,7 @@ TIFR has a robust graduate program and provides a unique environment for budding
     <item>
       <title>News</title>
       <link>/post/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/post/</guid>
       <description></description>
     </item>
@@ -74,7 +74,7 @@ TIFR has a robust graduate program and provides a unique environment for budding
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/talk/</guid>
       <description></description>
     </item>
