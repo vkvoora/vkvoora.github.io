@@ -5,12 +5,28 @@
     <link>/authors/vamsee-k.-voora/</link>
       <atom:link href="/authors/vamsee-k.-voora/index.xml" rel="self" type="application/rss+xml" />
     <description>Vamsee K. Voora</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Vamsee Voora</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Vamsee Voora</copyright><lastBuildDate>Sat, 03 Feb 2024 08:57:44 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Vamsee K. Voora</title>
       <link>/authors/vamsee-k.-voora/</link>
     </image>
+    
+    <item>
+      <title>Single-Pole Polarization Models: Rapid Evaluation of Electron Affinities of Solvated-Electron and Superatomic Molecular Anionic States</title>
+      <link>/publication/tyagi-2024/</link>
+      <pubDate>Sat, 03 Feb 2024 08:57:44 +0000</pubDate>
+      <guid>/publication/tyagi-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized perturbative singles corrections to the random phase approximation method: Impact on noncovalent interaction energies of closed- and open-shell dimers</title>
+      <link>/publication/joshi-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/joshi-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Black Gold-Based “Antenna–Reactor” To Activate Non-Plasmonic Nickel: Photocatalytic Hydrodechlorination and Hydrogenation Reactions</title>

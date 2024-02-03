@@ -5,12 +5,28 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Vamsee Voora</copyright><lastBuildDate>Mon, 09 Oct 2023 12:14:24 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Vamsee Voora</copyright><lastBuildDate>Sat, 03 Feb 2024 08:57:44 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Single-Pole Polarization Models: Rapid Evaluation of Electron Affinities of Solvated-Electron and Superatomic Molecular Anionic States</title>
+      <link>/publication/tyagi-2024/</link>
+      <pubDate>Sat, 03 Feb 2024 08:57:44 +0000</pubDate>
+      <guid>/publication/tyagi-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized perturbative singles corrections to the random phase approximation method: Impact on noncovalent interaction energies of closed- and open-shell dimers</title>
+      <link>/publication/joshi-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/joshi-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TURBOMOLE: Today and Tomorrow</title>
