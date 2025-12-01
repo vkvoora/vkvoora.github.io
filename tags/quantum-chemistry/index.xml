@@ -13,6 +13,15 @@
     </image>
     
     <item>
+      <title>Many-body methods for surface chemistry</title>
+      <link>/project/surface_chem/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/project/surface_chem/</guid>
+      <description>&lt;p&gt;Molecular adsorption on material surfaces is the precursor to chemical transformations. However, traditional density functional approximations show puzzling errors in describing molecular adsorption. This critical drawback hampers reliable modeling of molecular reactions and separations via materials. We are therefore analyzing the sources of these puzzling errors while developing low-scaling computational solutions. Our recent studies show that density-corrected KS and many-body methods can overcome these errors leading to remarkable improvements.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>X-ray spectroscopy of molecules and liquids</title>
       <link>/project/xps/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
