@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aditya Ramesh Sachin | Quantum Chemistry Group</title>
+    <link>/authors/aditya-ramesh-sachin/</link>
+      <atom:link href="/authors/aditya-ramesh-sachin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aditya Ramesh Sachin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Vamsee Voora</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Aditya Ramesh Sachin</title>
+      <link>/authors/aditya-ramesh-sachin/</link>
+    </image>
+    
+    <item>
+      <title>Resolving Density Errors Enables Accurate Description of Molecule--Surface Interactions for Ionic Materials</title>
+      <link>/publication/sachin-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/sachin-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>/authors/abhisek-ghosal/</link>
       <atom:link href="/authors/abhisek-ghosal/index.xml" rel="self" type="application/rss+xml" />
     <description>Abhisek Ghosal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Vamsee Voora</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Vamsee Voora</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Abhisek Ghosal</title>
       <link>/authors/abhisek-ghosal/</link>
     </image>
+    
+    <item>
+      <title>Optical gaps of F-center defects in LiF using many-body methods</title>
+      <link>/publication/d-5-cp-02179-k/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/d-5-cp-02179-k/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Taming Negative-Ion Resonances using Non-Local Exchange- Correlation Functionals</title>

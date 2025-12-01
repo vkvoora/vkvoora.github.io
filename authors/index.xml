@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Vamsee Voora</copyright><lastBuildDate>Sat, 03 Feb 2024 08:57:44 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Vamsee Voora</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,26 +13,74 @@
     </image>
     
     <item>
+      <title>Abhisek Ghosal</title>
+      <link>/authors/abhisek-ghosal/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/abhisek-ghosal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aditya Ramesh Sachin</title>
+      <link>/authors/aditya-ramesh-sachin/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/aditya-ramesh-sachin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deepa Khushalani</title>
+      <link>/authors/deepa-khushalani/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/deepa-khushalani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jyotishman Dasgupta</title>
+      <link>/authors/jyotishman-dasgupta/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/jyotishman-dasgupta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaustava Bhattacharyya</title>
+      <link>/authors/kaustava-bhattacharyya/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/kaustava-bhattacharyya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kishan K. Yadav</title>
+      <link>/authors/kishan-k.-yadav/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/kishan-k.-yadav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ritaj Tyagi</title>
       <link>/authors/ritaj-tyagi/</link>
-      <pubDate>Sat, 03 Feb 2024 08:57:44 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/authors/ritaj-tyagi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rohit Mann</title>
+      <link>/authors/rohit-mann/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/rohit-mann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vamsee K. Voora</title>
       <link>/authors/vamsee-k.-voora/</link>
-      <pubDate>Sat, 03 Feb 2024 08:57:44 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/authors/vamsee-k.-voora/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Abhisek Ghosal</title>
-      <link>/authors/abhisek-ghosal/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/authors/abhisek-ghosal/</guid>
       <description></description>
     </item>
     
@@ -377,14 +425,6 @@
       <link>/authors/vivek-polshettiwar/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/authors/vivek-polshettiwar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jyotishman Dasgupta</title>
-      <link>/authors/jyotishman-dasgupta/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/jyotishman-dasgupta/</guid>
       <description></description>
     </item>
     

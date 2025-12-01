@@ -5,12 +5,148 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Vamsee Voora</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Vamsee Voora</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>[4&#43;2] cycloaddition</title>
+      <link>/tags/4&#43;2-cycloaddition/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/4&#43;2-cycloaddition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>charge transfer</title>
+      <link>/tags/charge-transfer/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/charge-transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covalent organic frameworks</title>
+      <link>/tags/covalent-organic-frameworks/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/covalent-organic-frameworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dark photocatalysis</title>
+      <link>/tags/dark-photocatalysis/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/dark-photocatalysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diels-Alder reaction</title>
+      <link>/tags/diels-alder-reaction/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/diels-alder-reaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electron transfer</title>
+      <link>/tags/electron-transfer/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/electron-transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>green chemistry</title>
+      <link>/tags/green-chemistry/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/green-chemistry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Many-body methods</title>
+      <link>/tags/many-body-methods/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/many-body-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanostructures</title>
+      <link>/tags/nanostructures/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/nanostructures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neutral radical</title>
+      <link>/tags/neutral-radical/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/neutral-radical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>on-water chemistry</title>
+      <link>/tags/on-water-chemistry/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/on-water-chemistry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photo-accumulated charge state</title>
+      <link>/tags/photo-accumulated-charge-state/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/photo-accumulated-charge-state/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photoredox catalysis</title>
+      <link>/tags/photoredox-catalysis/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/photoredox-catalysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum confinement</title>
+      <link>/tags/quantum-confinement/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/quantum-confinement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>solar battery</title>
+      <link>/tags/solar-battery/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/solar-battery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>supramolecular confinement</title>
+      <link>/tags/supramolecular-confinement/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/supramolecular-confinement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transient absorption spectroscopy</title>
+      <link>/tags/transient-absorption-spectroscopy/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/transient-absorption-spectroscopy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Quantum chemistry</title>

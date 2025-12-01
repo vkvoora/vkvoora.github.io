@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Covalent organic frameworks | Quantum Chemistry Group</title>
+    <link>/tags/covalent-organic-frameworks/</link>
+      <atom:link href="/tags/covalent-organic-frameworks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Covalent organic frameworks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Vamsee Voora</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Covalent organic frameworks</title>
+      <link>/tags/covalent-organic-frameworks/</link>
+    </image>
+    
+    <item>
+      <title>Polarization-Induced Quantum Confinement of Negative Charge Carriers by Organic Nanoporous Frameworks</title>
+      <link>/publication/https-doi-org-10-1002-anie-202422923/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/https-doi-org-10-1002-anie-202422923/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resolving Density Errors Enables Accurate Description of Molecule--Surface Interactions for Ionic Materials</title>
+      <link>/publication/sachin-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/sachin-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

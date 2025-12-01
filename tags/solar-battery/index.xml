@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>solar battery | Quantum Chemistry Group</title>
+    <link>/tags/solar-battery/</link>
+      <atom:link href="/tags/solar-battery/index.xml" rel="self" type="application/rss+xml" />
+    <description>solar battery</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Vamsee Voora</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>solar battery</title>
+      <link>/tags/solar-battery/</link>
+    </image>
+    
+    <item>
+      <title>Structural determinants of photo-accumulated charge storage in poly-heptazine imides</title>
+      <link>/publication/mann-2025102812/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/mann-2025102812/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
